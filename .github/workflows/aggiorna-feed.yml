@@ -2,8 +2,11 @@ name: Aggiorna Feed Scioperi GEPAS
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # ogni 6 ore (0:00, 6:00, 12:00, 18:00 UTC)
-  workflow_dispatch:          # permette anche l'esecuzione manuale dal pannello GitHub
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   genera-xml:
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
@@ -29,3 +34,5 @@ jobs:
           git add scioperi.xml
           git diff --staged --quiet || git commit -m "Aggiornamento feed scioperi $(date +'%Y-%m-%d %H:%M UTC')"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
