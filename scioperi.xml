@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Thu, 07 May 2026 09:45:11 +0000</pubDate>
-    <lastBuildDate>Thu, 07 May 2026 09:45:11 +0000</lastBuildDate>
+    <pubDate>Thu, 07 May 2026 18:00:54 +0000</pubDate>
+    <lastBuildDate>Thu, 07 May 2026 18:00:54 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -20,6 +20,18 @@
 📋 Note CGS: Adeguamento alle indicazioni della Commissione di garanzia di cui alla nota d&#039;intervento Pos 422/26 sett. gen.]]></description>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/74778695-7886-4239-9237-c39f3113872a</guid>
+    </item>
+
+    <item>
+      <title>Sciopero Generale del 18 maggio 2026</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/a9ffaf14-8fa8-4df0-967d-774e346a31fa</link>
+      <description><![CDATA[📅 Data sciopero: 18/05/2026
+⏰ Scadenza adesione: 02/07/2026
+🏛 Comparti: AUTORITÀ INDIPENDENTI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, FUNZIONI LOCALI, REGIONI A STATUTO SPECIALE, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI CENTRALI, SANITA&#039;, PROVINCE AUTONOME, ISTRUZIONE RICERCA
+👥 Soggetti: Tutto Il Personale
+✊ Sigle: CONFEDERAZIONE USB, USB PI]]></description>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/a9ffaf14-8fa8-4df0-967d-774e346a31fa</guid>
     </item>
 
     <item>
@@ -613,18 +625,6 @@ RICERCA]]></description>
 ✊ Sigle: FLAI]]></description>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/c98f95ea-da3b-4967-a2c0-2f59c8424844</guid>
-    </item>
-
-    <item>
-      <title>Sciopero personale docente ed ATA scuole pubbliche di ogni ordine e grado, comunali e private proclamato da CSLE e CONALPE dal 23 al 24 maggio 2025</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/67625997-8163-44f3-8991-5f7dcf43f6c2</link>
-      <description><![CDATA[📅 Data sciopero: 23/05/2025
-⏰ Scadenza adesione: 08/07/2025
-🏛 Comparti: FUNZIONI LOCALI, ISTRUZIONE RICERCA
-👥 Soggetti: PERSONALE DOCENTE E ATA DELLE SCUOLE PUBBLICHE, COMUNALI (ASILI NIDO E EDUCATORI) E PRIVATE 
-✊ Sigle: CONALPE, CSLE]]></description>
-      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/67625997-8163-44f3-8991-5f7dcf43f6c2</guid>
     </item>
 
   </channel>
