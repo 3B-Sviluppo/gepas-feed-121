@@ -5,9 +5,21 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Fri, 08 May 2026 06:19:01 +0000</pubDate>
-    <lastBuildDate>Fri, 08 May 2026 06:19:01 +0000</lastBuildDate>
+    <pubDate>Fri, 08 May 2026 16:53:15 +0000</pubDate>
+    <lastBuildDate>Fri, 08 May 2026 16:53:15 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Sciopero generale del 25 e 26 settembre 2026</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/67e21a8e-018d-4e60-9ea7-96fe77957c76</link>
+      <description><![CDATA[📅 Data sciopero: 25/09/2026
+⏰ Scadenza adesione: 10/11/2026
+🏛 Comparti: PROVINCE AUTONOME, CORPO NAZIONALE DEI VIGILI DEL FUOCO, AUTORITÀ INDIPENDENTI, SANITA&#039;, REGIONI A STATUTO SPECIALE, FUNZIONI LOCALI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, ISTRUZIONE RICERCA, FUNZIONI CENTRALI
+👥 Soggetti: Tutto Il Personale
+✊ Sigle: CSLE]]></description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/67e21a8e-018d-4e60-9ea7-96fe77957c76</guid>
+    </item>
 
     <item>
       <title>Sciopero generale del 29 maggio 2026</title>
@@ -553,18 +565,6 @@ RICERCA]]></description>
 ✊ Sigle: USB PI, SGB]]></description>
       <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/78ad4cea-650b-45f9-b2cf-1c3ddb8b5cbf</guid>
-    </item>
-
-    <item>
-      <title>Sciopero Generale del 20 giugno 2025 proclamato dalle Confederazioni CUB e USB e dalla SGB</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/0af48699-06fa-4948-8114-2470c06d2cbf</link>
-      <description><![CDATA[📅 Data sciopero: 20/06/2025
-⏰ Scadenza adesione: 04/08/2025
-🏛 Comparti: PROVINCE AUTONOME, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, AUTORITÀ INDIPENDENTI, REGIONI A STATUTO SPECIALE, FUNZIONI LOCALI, FUNZIONI CENTRALI, ISTRUZIONE RICERCA, CORPO NAZIONALE DEI VIGILI DEL FUOCO, SANITA&#039;
-👥 Soggetti: Tutto Il Personale
-✊ Sigle: CUB, SGB, USB, FISI, CUB PI, USB PI, FLAI]]></description>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/0af48699-06fa-4948-8114-2470c06d2cbf</guid>
     </item>
 
     <item>
