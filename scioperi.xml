@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Sun, 17 May 2026 20:34:53 +0000</pubDate>
-    <lastBuildDate>Sun, 17 May 2026 20:34:53 +0000</lastBuildDate>
+    <pubDate>Mon, 18 May 2026 12:51:42 +0000</pubDate>
+    <lastBuildDate>Mon, 18 May 2026 12:51:42 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -592,18 +592,6 @@ RICERCA]]></description>
     </item>
 
     <item>
-      <title>Sciopero Generale del 20 giugno 2025 proclamato dalla Confederazione CUB</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/a291cf66-6f45-4250-884b-128464a6101a</link>
-      <description><![CDATA[📅 Data sciopero: 20/06/2025
-⏰ Scadenza adesione: 04/08/2025
-🏛 Comparti: SANITA&#039;, ISTRUZIONE RICERCA, FUNZIONI CENTRALI, FUNZIONI LOCALI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, REGIONI A STATUTO SPECIALE, CORPO NAZIONALE DEI VIGILI DEL FUOCO, AUTORITÀ INDIPENDENTI, PROVINCE AUTONOME
-👥 Soggetti: Tutto Il Personale
-✊ Sigle: CUB]]></description>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/a291cf66-6f45-4250-884b-128464a6101a</guid>
-    </item>
-
-    <item>
       <title>Sciopero Generale del 20 giugno 2025 proclamato da SGB</title>
       <link>https://crusc-gepas.perlapa.gov.it/detail/a5fe77a4-fb8e-4134-9dcc-385171e09586</link>
       <description><![CDATA[📅 Data sciopero: 20/06/2025
@@ -625,6 +613,18 @@ RICERCA]]></description>
 ✊ Sigle: USB, FISI]]></description>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/b5a4e7be-3de1-445f-b46a-16f081855a44</guid>
+    </item>
+
+    <item>
+      <title>Sciopero generale del 20 giugno 2025 proclamato da FLAI</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/c98f95ea-da3b-4967-a2c0-2f59c8424844</link>
+      <description><![CDATA[📅 Data sciopero: 20/06/2025
+⏰ Scadenza adesione: 04/08/2025
+🏛 Comparti: CORPO NAZIONALE DEI VIGILI DEL FUOCO, AUTORITÀ INDIPENDENTI, SANITA&#039;, FUNZIONI CENTRALI, REGIONI A STATUTO SPECIALE, FUNZIONI LOCALI, ISTRUZIONE RICERCA, PROVINCE AUTONOME, PRESIDENZA DEL CONSIGLIO DEI MINISTRI
+👥 Soggetti: Tutto Il Personale
+✊ Sigle: FLAI]]></description>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/c98f95ea-da3b-4967-a2c0-2f59c8424844</guid>
     </item>
 
   </channel>
