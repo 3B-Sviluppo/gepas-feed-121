@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Tue, 19 May 2026 18:26:33 +0000</pubDate>
-    <lastBuildDate>Tue, 19 May 2026 18:26:33 +0000</lastBuildDate>
+    <pubDate>Wed, 20 May 2026 10:37:52 +0000</pubDate>
+    <lastBuildDate>Wed, 20 May 2026 10:37:52 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -26,10 +26,10 @@
       <link>https://crusc-gepas.perlapa.gov.it/detail/74778695-7886-4239-9237-c39f3113872a</link>
       <description><![CDATA[📅 Data sciopero: 29/05/2026
 ⏰ Scadenza adesione: 13/07/2026
-🏛 Comparti: AUTORITÀ INDIPENDENTI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, PROVINCE AUTONOME, REGIONI A STATUTO SPECIALE, FUNZIONI LOCALI, SANITA&#039;, FUNZIONI CENTRALI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, ISTRUZIONE RICERCA
+🏛 Comparti: SANITA&#039;, REGIONI A STATUTO SPECIALE, FUNZIONI LOCALI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, PROVINCE AUTONOME, ISTRUZIONE RICERCA, CORPO NAZIONALE DEI VIGILI DEL FUOCO, FUNZIONI CENTRALI, AUTORITÀ INDIPENDENTI
 👥 Soggetti: Tutto Il Personale
-✊ Sigle: USI-CIT, SI COBAS, CONFEDERAZIONE CUB, ADL VARESE, SGB, FISI - FEDERAZIONE ITALIANA
-SINDACATI INTERCATEGORIALI, SBM, CUB PI, FI-SI - FEDERAZIONE INTERNAZIONALE SINDACATI INDIPENDENTI
+✊ Sigle: USI-CIT, CONFEDERAZIONE CUB, ADL VARESE, SI COBAS, SGB, FI-SI - FEDERAZIONE INTERNAZIONALE SINDACATI INDIPENDENTI, FISI - FEDERAZIONE ITALIANA
+SINDACATI INTERCATEGORIALI, SBM, CUB PI
 📋 Note CGS: Adeguamento alle indicazioni della Commissione di garanzia di cui alla nota d&#039;intervento Pos 422/26 sett. gen.]]></description>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/74778695-7886-4239-9237-c39f3113872a</guid>
@@ -605,15 +605,15 @@ RICERCA]]></description>
     </item>
 
     <item>
-      <title>Sciopero Generale del 20 giugno 2025 proclamato dalla Confederazione USB</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/b5a4e7be-3de1-445f-b46a-16f081855a44</link>
+      <title>Sciopero generale del 20 giugno 2025 proclamato da SI COBAS</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/aafad12c-44dd-42f6-97ab-d3b60e5139f5</link>
       <description><![CDATA[📅 Data sciopero: 20/06/2025
 ⏰ Scadenza adesione: 04/08/2025
-🏛 Comparti: ISTRUZIONE RICERCA, PROVINCE AUTONOME, SANITA&#039;, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, AUTORITÀ INDIPENDENTI, FUNZIONI LOCALI, FUNZIONI CENTRALI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, REGIONI A STATUTO SPECIALE
+🏛 Comparti: PROVINCE AUTONOME, REGIONI A STATUTO SPECIALE, FUNZIONI CENTRALI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, ISTRUZIONE RICERCA, FUNZIONI LOCALI, AUTORITÀ INDIPENDENTI, SANITA&#039;
 👥 Soggetti: Tutto Il Personale
-✊ Sigle: USB, FISI]]></description>
+✊ Sigle: SI COBAS]]></description>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/b5a4e7be-3de1-445f-b46a-16f081855a44</guid>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/aafad12c-44dd-42f6-97ab-d3b60e5139f5</guid>
     </item>
 
     <item>
