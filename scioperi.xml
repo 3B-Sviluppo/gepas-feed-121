@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Thu, 04 Jun 2026 02:33:23 +0000</pubDate>
-    <lastBuildDate>Thu, 04 Jun 2026 02:33:23 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Jun 2026 02:07:52 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Jun 2026 02:07:52 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -19,6 +19,18 @@
 ✊ Sigle: CSLE]]></description>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/67e21a8e-018d-4e60-9ea7-96fe77957c76</guid>
+    </item>
+
+    <item>
+      <title>Sciopero breve dal 13 al 21 giugno 2026 personale docente</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/23f17555-d7db-4371-906c-dc4ab408d7fc</link>
+      <description><![CDATA[📅 Data sciopero: 13/06/2026
+⏰ Scadenza adesione: 28/07/2026
+🏛 Comparti: ISTRUZIONE RICERCA
+👥 Soggetti: personale docente delle scuole secondarie di secondo grado comprendenti gli Istituti di Istruzione Tecnica, in occasione degli scrutini finali
+✊ Sigle: FLC CGIL]]></description>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/23f17555-d7db-4371-906c-dc4ab408d7fc</guid>
     </item>
 
     <item>
@@ -614,18 +626,6 @@ RICERCA]]></description>
 ✊ Sigle: USB, FISI]]></description>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/b5a4e7be-3de1-445f-b46a-16f081855a44</guid>
-    </item>
-
-    <item>
-      <title>Sciopero generale del 20 giugno 2025 proclamato da FLAI</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/c98f95ea-da3b-4967-a2c0-2f59c8424844</link>
-      <description><![CDATA[📅 Data sciopero: 20/06/2025
-⏰ Scadenza adesione: 04/08/2025
-🏛 Comparti: CORPO NAZIONALE DEI VIGILI DEL FUOCO, AUTORITÀ INDIPENDENTI, SANITA&#039;, FUNZIONI CENTRALI, REGIONI A STATUTO SPECIALE, FUNZIONI LOCALI, ISTRUZIONE RICERCA, PROVINCE AUTONOME, PRESIDENZA DEL CONSIGLIO DEI MINISTRI
-👥 Soggetti: Tutto Il Personale
-✊ Sigle: FLAI]]></description>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/c98f95ea-da3b-4967-a2c0-2f59c8424844</guid>
     </item>
 
   </channel>
