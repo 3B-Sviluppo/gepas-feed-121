@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Mon, 08 Jun 2026 02:31:32 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 02:31:32 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2026 15:24:03 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2026 15:24:03 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -25,12 +25,25 @@
       <title>Sciopero breve dal 13 al 21 giugno 2026 personale docente</title>
       <link>https://crusc-gepas.perlapa.gov.it/detail/23f17555-d7db-4371-906c-dc4ab408d7fc</link>
       <description><![CDATA[📅 Data sciopero: 13/06/2026
-⏰ Scadenza adesione: 28/07/2026
+⏰ Scadenza adesione: 05/08/2026
 🏛 Comparti: ISTRUZIONE RICERCA
 👥 Soggetti: personale docente delle scuole secondarie di secondo grado comprendenti gli Istituti di Istruzione Tecnica, in occasione degli scrutini finali
 ✊ Sigle: FLC CGIL]]></description>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/23f17555-d7db-4371-906c-dc4ab408d7fc</guid>
+    </item>
+
+    <item>
+      <title>Sciopero del 12 giugno 2026 di tutto il personale del settore Cultura</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/3edb2a9e-87c5-4448-bb39-1e589e70f56d</link>
+      <description><![CDATA[📅 Data sciopero: 12/06/2026
+⏰ Scadenza adesione: 27/07/2026
+🏛 Comparti: FUNZIONI LOCALI, FUNZIONI CENTRALI, ISTRUZIONE RICERCA, ISTRUZIONE RICERCA
+👥 Soggetti: tutto il personale diretto e in appalto operante nel perimetro dell&#039;art. 101 del d.lgs. 42/2004
+✊ Sigle: COBAS LAVORO PRIVATO, ADL COBAS, USI CTS, CONFEDERAZIONE CUB, CLAP - Camere del Lavoro Autonomo e
+Precario]]></description>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/3edb2a9e-87c5-4448-bb39-1e589e70f56d</guid>
     </item>
 
     <item>
@@ -614,18 +627,6 @@ RICERCA]]></description>
 ✊ Sigle: SGB]]></description>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/a5fe77a4-fb8e-4134-9dcc-385171e09586</guid>
-    </item>
-
-    <item>
-      <title>Sciopero Generale del 20 giugno 2025 proclamato dalla Confederazione USB</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/b5a4e7be-3de1-445f-b46a-16f081855a44</link>
-      <description><![CDATA[📅 Data sciopero: 20/06/2025
-⏰ Scadenza adesione: 04/08/2025
-🏛 Comparti: ISTRUZIONE RICERCA, PROVINCE AUTONOME, SANITA&#039;, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, AUTORITÀ INDIPENDENTI, FUNZIONI LOCALI, FUNZIONI CENTRALI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, REGIONI A STATUTO SPECIALE
-👥 Soggetti: Tutto Il Personale
-✊ Sigle: USB, FISI]]></description>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/b5a4e7be-3de1-445f-b46a-16f081855a44</guid>
     </item>
 
   </channel>
