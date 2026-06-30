@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Tue, 30 Jun 2026 13:51:38 +0000</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2026 13:51:38 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 19:29:06 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 19:29:06 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -618,15 +618,15 @@ RICERCA]]></description>
     </item>
 
     <item>
-      <title>Sciopero Generale del 20 giugno 2025 proclamato da SGB</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/a5fe77a4-fb8e-4134-9dcc-385171e09586</link>
+      <title>Sciopero generale del 20 giugno 2025 proclamato da FLAI</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/c98f95ea-da3b-4967-a2c0-2f59c8424844</link>
       <description><![CDATA[📅 Data sciopero: 20/06/2025
 ⏰ Scadenza adesione: 04/08/2025
-🏛 Comparti: PROVINCE AUTONOME, AUTORITÀ INDIPENDENTI, ISTRUZIONE RICERCA, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI LOCALI, FUNZIONI CENTRALI, REGIONI A STATUTO SPECIALE, CORPO NAZIONALE DEI VIGILI DEL FUOCO, SANITA&#039;
+🏛 Comparti: CORPO NAZIONALE DEI VIGILI DEL FUOCO, AUTORITÀ INDIPENDENTI, SANITA&#039;, FUNZIONI CENTRALI, REGIONI A STATUTO SPECIALE, FUNZIONI LOCALI, ISTRUZIONE RICERCA, PROVINCE AUTONOME, PRESIDENZA DEL CONSIGLIO DEI MINISTRI
 👥 Soggetti: Tutto Il Personale
-✊ Sigle: SGB]]></description>
+✊ Sigle: FLAI]]></description>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/a5fe77a4-fb8e-4134-9dcc-385171e09586</guid>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/c98f95ea-da3b-4967-a2c0-2f59c8424844</guid>
     </item>
 
   </channel>
