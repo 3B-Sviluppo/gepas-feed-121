@@ -5,9 +5,21 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Mon, 06 Jul 2026 01:59:26 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Jul 2026 01:59:26 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2026 09:52:00 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2026 09:52:00 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Sciopero Generale del 30 ottobre 2026</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/1fdf3a51-2b8e-48b4-ae74-2f300e6495ea</link>
+      <description><![CDATA[📅 Data sciopero: 30/10/2026
+⏰ Scadenza adesione: 14/12/2026
+🏛 Comparti: FUNZIONI LOCALI, ISTRUZIONE RICERCA, PROVINCE AUTONOME, SANITA&#039;, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, AUTORITÀ INDIPENDENTI, FUNZIONI CENTRALI, REGIONI A STATUTO SPECIALE, CORPO NAZIONALE DEI VIGILI DEL FUOCO
+👥 Soggetti: Tutto Il Personale
+✊ Sigle: USI-CIT]]></description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/1fdf3a51-2b8e-48b4-ae74-2f300e6495ea</guid>
+    </item>
 
     <item>
       <title>Sciopero generale del 25 e 26 settembre 2026</title>
@@ -615,18 +627,6 @@ RICERCA]]></description>
 ✊ Sigle: USB PI, SGB]]></description>
       <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/78ad4cea-650b-45f9-b2cf-1c3ddb8b5cbf</guid>
-    </item>
-
-    <item>
-      <title>Sciopero Generale del 20 giugno 2025 proclamato da SGB</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/a5fe77a4-fb8e-4134-9dcc-385171e09586</link>
-      <description><![CDATA[📅 Data sciopero: 20/06/2025
-⏰ Scadenza adesione: 04/08/2025
-🏛 Comparti: PROVINCE AUTONOME, AUTORITÀ INDIPENDENTI, ISTRUZIONE RICERCA, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI LOCALI, FUNZIONI CENTRALI, REGIONI A STATUTO SPECIALE, CORPO NAZIONALE DEI VIGILI DEL FUOCO, SANITA&#039;
-👥 Soggetti: Tutto Il Personale
-✊ Sigle: SGB]]></description>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/a5fe77a4-fb8e-4134-9dcc-385171e09586</guid>
     </item>
 
   </channel>
