@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Mon, 24 Aug 2026 06:33:05 +0000</pubDate>
-    <lastBuildDate>Mon, 24 Aug 2026 06:33:05 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 12:22:25 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:22:25 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -19,6 +19,18 @@
 ✊ Sigle: USI-CIT, USI EDUCAZIONE, USIS]]></description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/1fdf3a51-2b8e-48b4-ae74-2f300e6495ea</guid>
+    </item>
+
+    <item>
+      <title>Sciopero del 16 ottobre 2026 di tutto il personale Docente, Dirigente e ATA </title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/e8fb2431-2807-448c-80f8-c9b896ea5b0e</link>
+      <description><![CDATA[📅 Data sciopero: 16/10/2026
+⏰ Scadenza adesione: 30/11/2026
+🏛 Comparti: ISTRUZIONE RICERCA
+👥 Soggetti: Personale Docente, Dirigente e ATA di ruolo e precario, in Italia e all&#039;estero.
+✊ Sigle: SISA]]></description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/e8fb2431-2807-448c-80f8-c9b896ea5b0e</guid>
     </item>
 
     <item>
@@ -615,18 +627,6 @@ RICERCA]]></description>
 ✊ Sigle: USB, FISI, USB PI]]></description>
       <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/f8d5d69a-155e-41ff-b4a1-0f27fa3c2f02</guid>
-    </item>
-
-    <item>
-      <title>Sciopero generale del 17 settembre 2025 di tutti i settori della pubblica amministrazione e del Corpo nazionale dei vigili del fuoco </title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/78ad4cea-650b-45f9-b2cf-1c3ddb8b5cbf</link>
-      <description><![CDATA[📅 Data sciopero: 17/09/2025
-⏰ Scadenza adesione: 01/11/2025
-🏛 Comparti: CORPO NAZIONALE DEI VIGILI DEL FUOCO, FUNZIONI LOCALI, FUNZIONI CENTRALI, REGIONI A STATUTO SPECIALE, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, ISTRUZIONE RICERCA, SANITA&#039;, AUTORITÀ INDIPENDENTI, PROVINCE AUTONOME
-👥 Soggetti: Personale Non Dirigente, Tutto Il Personale, Personale Dirigente, Personale insegnante delle scuole gestite dagli enti locali, Personale docente delle scuole dell&#039;infanzia, Personale educativo dei servizi educativi per l’infanzia, Polizia locale, Professionisti Non Medici, Professionisti Medici, Dirigenti sanitari del Ministero della Salute e dell&#039;Agenzia Italiana del Farmaco, Personale educativo e scolastico, Personale di ricerca, Personale docente, Livelli IV-VIII, Personale ausiliario, tecnico e amministrativo (ATA), Titolari di incarico di DSGA, Ricercatori e tecnologi, Ruolo sanitario - Professioni sanitarie della prevenzione, Ruolo della ricerca sanitaria, Ruolo sanitario - Professione sanitaria ostetrica, Ruolo sanitario - Professioni sanitarie della riabilitazione, Ruolo sociosanitario (rientrano solo gli assistenti sociali e gli OSS), Ruolo professionale, Ruolo tecnico, Ruolo amministrativo, Ruolo sanitario - Professioni sanitarie infermieristiche, Ruolo sanitario - Professioni tecnico sanitarie, Dirigenti medici, veterinari, odontoiatri e sanitari
-✊ Sigle: USB PI, SGB]]></description>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/78ad4cea-650b-45f9-b2cf-1c3ddb8b5cbf</guid>
     </item>
 
   </channel>
