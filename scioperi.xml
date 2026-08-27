@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Thu, 27 Aug 2026 05:29:11 +0000</pubDate>
-    <lastBuildDate>Thu, 27 Aug 2026 05:29:11 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2026 16:59:35 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:59:35 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -31,6 +31,18 @@
 ✊ Sigle: SISA]]></description>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/e8fb2431-2807-448c-80f8-c9b896ea5b0e</guid>
+    </item>
+
+    <item>
+      <title>Sciopero plurisettoriale del 26 settembre 2026</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/0bfedc1c-14cb-424b-9500-b987bd9ec344</link>
+      <description><![CDATA[📅 Data sciopero: 26/09/2026
+⏰ Scadenza adesione: 10/11/2026
+🏛 Comparti: FUNZIONI LOCALI, ISTRUZIONE RICERCA, SANITA&#039;
+👥 Soggetti: Tutto Il Personale
+✊ Sigle: CSLE]]></description>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/0bfedc1c-14cb-424b-9500-b987bd9ec344</guid>
     </item>
 
     <item>
@@ -615,18 +627,6 @@ RICERCA]]></description>
 ✊ Sigle: ADL VARESE, SGB, CUB]]></description>
       <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/e1dd9ca9-b9f5-49fc-b992-ec80aa03be1b</guid>
-    </item>
-
-    <item>
-      <title>Sciopero generale del 22 settembre 2025 di tutte le categorie pubbliche e  private</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/f8d5d69a-155e-41ff-b4a1-0f27fa3c2f02</link>
-      <description><![CDATA[📅 Data sciopero: 22/09/2025
-⏰ Scadenza adesione: 06/11/2025
-🏛 Comparti: CORPO NAZIONALE DEI VIGILI DEL FUOCO, AUTORITÀ INDIPENDENTI, REGIONI A STATUTO SPECIALE, FUNZIONI LOCALI, ISTRUZIONE RICERCA, SANITA&#039;, PROVINCE AUTONOME, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI CENTRALI
-👥 Soggetti: Tutto Il Personale
-✊ Sigle: USB, FISI, USB PI]]></description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/f8d5d69a-155e-41ff-b4a1-0f27fa3c2f02</guid>
     </item>
 
   </channel>
