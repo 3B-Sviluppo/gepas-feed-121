@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Wed, 02 Sep 2026 01:45:02 +0000</pubDate>
-    <lastBuildDate>Wed, 02 Sep 2026 01:45:02 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2026 10:05:44 +0000</pubDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:05:44 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -34,11 +34,23 @@
     </item>
 
     <item>
+      <title>Sciopero plurisettoriale del 2 ottobre 2026</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/708c6d81-60d4-4966-a0c5-97d7079aecb1</link>
+      <description><![CDATA[📅 Data sciopero: 02/10/2026
+⏰ Scadenza adesione: 16/11/2026
+🏛 Comparti: SANITA&#039;, FUNZIONI LOCALI, ISTRUZIONE RICERCA
+👥 Soggetti: Tutto Il Personale
+✊ Sigle: CSLE]]></description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/708c6d81-60d4-4966-a0c5-97d7079aecb1</guid>
+    </item>
+
+    <item>
       <title>Sciopero plurisettoriale del 26 settembre 2026</title>
       <link>https://crusc-gepas.perlapa.gov.it/detail/0bfedc1c-14cb-424b-9500-b987bd9ec344</link>
       <description><![CDATA[📅 Data sciopero: 26/09/2026
 ⏰ Scadenza adesione: 10/11/2026
-🏛 Comparti: ISTRUZIONE RICERCA, SANITA&#039;, FUNZIONI LOCALI
+🏛 Comparti: FUNZIONI LOCALI, SANITA&#039;, ISTRUZIONE RICERCA
 👥 Soggetti: Tutto Il Personale
 ✊ Sigle: CSLE]]></description>
       <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
@@ -603,18 +615,6 @@ RICERCA, CONFEDERAZIONE SINDACALE SARDA - CSS]]></description>
 RICERCA]]></description>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/d2f0ca03-f8c6-45ea-9dee-587def953037</guid>
-    </item>
-
-    <item>
-      <title>Sciopero del 22.09.2025 proclamato da CO.NA.L.PE., C.S.L.E. e CONF.S.A.I.</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/170b9154-fa65-425b-9f49-92ce8d9d77d2</link>
-      <description><![CDATA[📅 Data sciopero: 22/09/2025
-⏰ Scadenza adesione: 06/11/2025
-🏛 Comparti: FUNZIONI LOCALI, ISTRUZIONE RICERCA
-👥 Soggetti: Personale insegnante delle scuole gestite dagli enti locali, Personale educativo dei servizi educativi per l’infanzia, Tutto il personale  Docente e ATA, a tempo determinato ed indeterminato, delle Scuole Pubbliche di ogni ordine e grado, Comunali (Asili nido e Educatori) e Private.
-✊ Sigle: CONF.S.A.I., CONALPE, CSLE]]></description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/170b9154-fa65-425b-9f49-92ce8d9d77d2</guid>
     </item>
 
     <item>
