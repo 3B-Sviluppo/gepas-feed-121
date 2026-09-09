@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Wed, 09 Sep 2026 01:54:50 +0000</pubDate>
-    <lastBuildDate>Wed, 09 Sep 2026 01:54:50 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 10:16:39 +0000</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:16:39 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -38,7 +38,7 @@
       <link>https://crusc-gepas.perlapa.gov.it/detail/708c6d81-60d4-4966-a0c5-97d7079aecb1</link>
       <description><![CDATA[📅 Data sciopero: 02/10/2026
 ⏰ Scadenza adesione: 16/11/2026
-🏛 Comparti: SANITA&#039;, FUNZIONI LOCALI, ISTRUZIONE RICERCA
+🏛 Comparti: FUNZIONI LOCALI, ISTRUZIONE RICERCA, SANITA&#039;
 👥 Soggetti: Tutto Il Personale
 ✊ Sigle: CSLE]]></description>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
