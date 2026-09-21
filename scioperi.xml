@@ -5,9 +5,21 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Mon, 21 Sep 2026 02:05:34 +0000</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 02:05:34 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Sep 2026 11:17:58 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:17:58 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Sciopero del 4 Novembre 2026 Scuola e Università</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/897572f4-306b-4669-872e-670049349204</link>
+      <description><![CDATA[📅 Data sciopero: 04/11/2026
+⏰ Scadenza adesione: 19/12/2026
+🏛 Comparti: ISTRUZIONE RICERCA, ISTRUZIONE RICERCA
+👥 Soggetti: personale docente e ATA di tutti gli ordini e gradi della Scuola e del personale tecnico, amministrativo, bibliotecario, CEL e del personale delle Università, inclusi i lavoratori precari dell&#039;Università (RTD, assegnisti, borsisti, docenti a contratto).
+✊ Sigle: OSSERVATORIO CONTRO MILITARIZZAZIONE SCUOLE E UNIVERSITA']]></description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/897572f4-306b-4669-872e-670049349204</guid>
+    </item>
 
     <item>
       <title>Sciopero Generale del 30 ottobre 2026</title>
@@ -38,7 +50,7 @@
       <link>https://crusc-gepas.perlapa.gov.it/detail/708c6d81-60d4-4966-a0c5-97d7079aecb1</link>
       <description><![CDATA[📅 Data sciopero: 02/10/2026
 ⏰ Scadenza adesione: 16/11/2026
-🏛 Comparti: FUNZIONI LOCALI, ISTRUZIONE RICERCA, SANITA&#039;
+🏛 Comparti: FUNZIONI LOCALI, ISTRUZIONE RICERCA, FUNZIONI LOCALI, FUNZIONI LOCALI, FUNZIONI LOCALI, SANITA&#039;
 👥 Soggetti: Tutto Il Personale
 ✊ Sigle: CSLE]]></description>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
@@ -615,18 +627,6 @@ RICERCA, CONFEDERAZIONE SINDACALE SARDA - CSS]]></description>
 RICERCA]]></description>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/d2f0ca03-f8c6-45ea-9dee-587def953037</guid>
-    </item>
-
-    <item>
-      <title>Sciopero generale del 22 settembre 2025 di tutte le categorie pubbliche e private</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/e1dd9ca9-b9f5-49fc-b992-ec80aa03be1b</link>
-      <description><![CDATA[📅 Data sciopero: 22/09/2025
-⏰ Scadenza adesione: 06/11/2025
-🏛 Comparti: FUNZIONI LOCALI, SANITA&#039;, FUNZIONI CENTRALI, PROVINCE AUTONOME, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, AUTORITÀ INDIPENDENTI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, REGIONI A STATUTO SPECIALE, ISTRUZIONE RICERCA
-👥 Soggetti: Tutto Il Personale
-✊ Sigle: ADL VARESE, SGB, CUB]]></description>
-      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/e1dd9ca9-b9f5-49fc-b992-ec80aa03be1b</guid>
     </item>
 
   </channel>
