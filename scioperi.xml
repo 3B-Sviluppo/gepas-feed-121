@@ -5,9 +5,21 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Mon, 28 Sep 2026 02:19:27 +0000</pubDate>
-    <lastBuildDate>Mon, 28 Sep 2026 02:19:27 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Sep 2026 12:13:13 +0000</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:13:13 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Sciopero generale di tutte le categorie pubbliche e private del 4 dicembre 2026</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/222f9f10-17b4-40f6-b286-45407b816965</link>
+      <description><![CDATA[📅 Data sciopero: 04/12/2026
+⏰ Scadenza adesione: 18/01/2027
+🏛 Comparti: AUTORITÀ INDIPENDENTI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI LOCALI, FUNZIONI CENTRALI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, SANITA&#039;, PROVINCE AUTONOME, ISTRUZIONE RICERCA, REGIONI A STATUTO SPECIALE
+👥 Soggetti: Personale Non Dirigente, Tutto Il Personale, Personale Dirigente, Polizia locale, Personale educativo dei servizi educativi per l’infanzia, Personale docente delle scuole dell&#039;infanzia, Personale insegnante delle scuole gestite dagli enti locali, Professionisti Medici, Dirigenti sanitari del Ministero della Salute e dell&#039;Agenzia Italiana del Farmaco, Professionisti Non Medici, Ruolo della ricerca sanitaria, Ruolo amministrativo, Ruolo sanitario - Professioni tecnico sanitarie, Ruolo professionale, Ruolo sociosanitario (rientrano solo gli assistenti sociali e gli OSS), Ruolo sanitario - Professioni sanitarie infermieristiche, Dirigenti medici, veterinari, odontoiatri e sanitari, Ruolo sanitario - Professione sanitaria ostetrica, Ruolo tecnico, Ruolo sanitario - Professioni sanitarie della prevenzione, Ruolo sanitario - Professioni sanitarie della riabilitazione, Personale educativo e scolastico, Personale di ricerca, Ricercatori e tecnologi, Livelli IV-VIII, Titolari di incarico di DSGA, Personale docente, Personale ausiliario, tecnico e amministrativo (ATA)
+✊ Sigle: SGB, SBM, SI COBAS, ADL VARESE, CONFEDERAZIONE CUB, SGC - Sindacato Generale di Classe, CIB UNICOBAS]]></description>
+      <pubDate>Fri, 04 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/222f9f10-17b4-40f6-b286-45407b816965</guid>
+    </item>
 
     <item>
       <title>Sciopero del 4 Novembre 2026 Scuola e Università</title>
@@ -590,18 +602,6 @@ RICERCA, CONFEDERAZIONE SINDACALE SARDA - CSS]]></description>
 ✊ Sigle: SI COBAS]]></description>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/83f7f610-bd52-42cc-bc8b-b278ac87df2a</guid>
-    </item>
-
-    <item>
-      <title>Sciopero generale del 3 ottobre 2025 di tutti i settori pubblici e privati</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/a34be36f-56d5-4307-90a0-11a6173d5aad</link>
-      <description><![CDATA[📅 Data sciopero: 03/10/2025
-⏰ Scadenza adesione: 17/11/2025
-🏛 Comparti: FUNZIONI LOCALI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, REGIONI A STATUTO SPECIALE, SANITA&#039;, AUTORITÀ INDIPENDENTI, PROVINCE AUTONOME, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI CENTRALI, ISTRUZIONE RICERCA
-👥 Soggetti: Tutto Il Personale
-✊ Sigle: SGB, CUB, CUB PI]]></description>
-      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/a34be36f-56d5-4307-90a0-11a6173d5aad</guid>
     </item>
 
     <item>
