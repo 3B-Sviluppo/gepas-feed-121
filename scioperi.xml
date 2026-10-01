@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Thu, 01 Oct 2026 11:58:14 +0000</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2026 11:58:14 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 17:56:34 +0000</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:56:34 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -14,9 +14,9 @@
       <link>https://crusc-gepas.perlapa.gov.it/detail/222f9f10-17b4-40f6-b286-45407b816965</link>
       <description><![CDATA[📅 Data sciopero: 04/12/2026
 ⏰ Scadenza adesione: 18/01/2027
-🏛 Comparti: AUTORITÀ INDIPENDENTI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI LOCALI, FUNZIONI CENTRALI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, SANITA&#039;, PROVINCE AUTONOME, ISTRUZIONE RICERCA, REGIONI A STATUTO SPECIALE
-👥 Soggetti: Personale Non Dirigente, Tutto Il Personale, Personale Dirigente, Polizia locale, Personale educativo dei servizi educativi per l’infanzia, Personale docente delle scuole dell&#039;infanzia, Personale insegnante delle scuole gestite dagli enti locali, Professionisti Medici, Dirigenti sanitari del Ministero della Salute e dell&#039;Agenzia Italiana del Farmaco, Professionisti Non Medici, Ruolo della ricerca sanitaria, Ruolo amministrativo, Ruolo sanitario - Professioni tecnico sanitarie, Ruolo professionale, Ruolo sociosanitario (rientrano solo gli assistenti sociali e gli OSS), Ruolo sanitario - Professioni sanitarie infermieristiche, Dirigenti medici, veterinari, odontoiatri e sanitari, Ruolo sanitario - Professione sanitaria ostetrica, Ruolo tecnico, Ruolo sanitario - Professioni sanitarie della prevenzione, Ruolo sanitario - Professioni sanitarie della riabilitazione, Personale educativo e scolastico, Personale di ricerca, Ricercatori e tecnologi, Livelli IV-VIII, Titolari di incarico di DSGA, Personale docente, Personale ausiliario, tecnico e amministrativo (ATA)
-✊ Sigle: SGB, SBM, SI COBAS, ADL VARESE, CONFEDERAZIONE CUB, SGC - Sindacato Generale di Classe, CIB UNICOBAS]]></description>
+🏛 Comparti: AUTORITÀ INDIPENDENTI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI LOCALI, SANITA&#039;, REGIONI A STATUTO SPECIALE, FUNZIONI CENTRALI, PROVINCE AUTONOME, ISTRUZIONE RICERCA
+👥 Soggetti: Personale Dirigente, Tutto Il Personale, Personale Non Dirigente, Personale insegnante delle scuole gestite dagli enti locali, Polizia locale, Personale docente delle scuole dell&#039;infanzia, Personale educativo dei servizi educativi per l’infanzia, Ruolo sociosanitario (rientrano solo gli assistenti sociali e gli OSS), Ruolo sanitario - Professioni sanitarie infermieristiche, Ruolo professionale, Ruolo sanitario - Professione sanitaria ostetrica, Dirigenti medici, veterinari, odontoiatri e sanitari, Ruolo tecnico, Ruolo sanitario - Professioni tecnico sanitarie, Ruolo amministrativo, Ruolo sanitario - Professioni sanitarie della prevenzione, Ruolo sanitario - Professioni sanitarie della riabilitazione, Ruolo della ricerca sanitaria, Personale educativo e scolastico, Professionisti Medici, Dirigenti sanitari del Ministero della Salute e dell&#039;Agenzia Italiana del Farmaco, Professionisti Non Medici, Personale ausiliario, tecnico e amministrativo (ATA), Personale docente, Titolari di incarico di DSGA, Personale di ricerca, Ricercatori e tecnologi, Livelli IV-VIII
+✊ Sigle: SI COBAS, SBM, SGB, CONFEDERAZIONE CUB, SGC - Sindacato Generale di Classe, CIB UNICOBAS, ADL VARESE]]></description>
       <pubDate>Fri, 04 Dec 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/222f9f10-17b4-40f6-b286-45407b816965</guid>
     </item>
@@ -38,7 +38,7 @@
       <link>https://crusc-gepas.perlapa.gov.it/detail/1fdf3a51-2b8e-48b4-ae74-2f300e6495ea</link>
       <description><![CDATA[📅 Data sciopero: 30/10/2026
 ⏰ Scadenza adesione: 14/12/2026
-🏛 Comparti: FUNZIONI LOCALI, FUNZIONI CENTRALI, REGIONI A STATUTO SPECIALE, ISTRUZIONE RICERCA, PROVINCE AUTONOME, AUTORITÀ INDIPENDENTI, SANITA&#039;, CORPO NAZIONALE DEI VIGILI DEL FUOCO, PRESIDENZA DEL CONSIGLIO DEI MINISTRI
+🏛 Comparti: FUNZIONI LOCALI, REGIONI A STATUTO SPECIALE, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI CENTRALI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, SANITA&#039;, AUTORITÀ INDIPENDENTI, ISTRUZIONE RICERCA, PROVINCE AUTONOME
 👥 Soggetti: Tutto Il Personale
 ✊ Sigle: USI-CIT, USI EDUCAZIONE, USIS]]></description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
