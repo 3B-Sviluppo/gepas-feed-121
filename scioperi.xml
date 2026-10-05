@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Mon, 05 Oct 2026 12:53:03 +0000</pubDate>
-    <lastBuildDate>Mon, 05 Oct 2026 12:53:03 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 23:25:42 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:25:42 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -43,6 +43,18 @@
 ✊ Sigle: USI-CIT, USI EDUCAZIONE, USIS]]></description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/1fdf3a51-2b8e-48b4-ae74-2f300e6495ea</guid>
+    </item>
+
+    <item>
+      <title>Sciopero del 16 ottobre 2026 di tutto il personale Docente, Dirigente e ATA</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/3e8d2fd1-0ac6-4ff6-8546-b7edc19adaa1</link>
+      <description><![CDATA[📅 Data sciopero: 16/10/2026
+⏰ Scadenza adesione: 30/11/2026
+🏛 Comparti: ISTRUZIONE RICERCA
+👥 Soggetti: Personale Docente, Dirigente e ATA di ruolo e precario, in Italia e all&#039;estero.
+✊ Sigle: SISA]]></description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/3e8d2fd1-0ac6-4ff6-8546-b7edc19adaa1</guid>
     </item>
 
     <item>
@@ -593,27 +605,15 @@ RICERCA, CONFEDERAZIONE SINDACALE SARDA - CSS]]></description>
     </item>
 
     <item>
-      <title>Sciopero generale del 3 ottobre 2025 di tutte le categorie pubbliche e private</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/83f7f610-bd52-42cc-bc8b-b278ac87df2a</link>
+      <title>Sciopero generale del 3 ottobre 2025 di tutti i settori pubblici e privati</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/a34be36f-56d5-4307-90a0-11a6173d5aad</link>
       <description><![CDATA[📅 Data sciopero: 03/10/2025
 ⏰ Scadenza adesione: 17/11/2025
-🏛 Comparti: REGIONI A STATUTO SPECIALE, SANITA&#039;, ISTRUZIONE RICERCA, PROVINCE AUTONOME, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI LOCALI, FUNZIONI CENTRALI, AUTORITÀ INDIPENDENTI, CORPO NAZIONALE DEI VIGILI DEL FUOCO
+🏛 Comparti: FUNZIONI LOCALI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, REGIONI A STATUTO SPECIALE, SANITA&#039;, AUTORITÀ INDIPENDENTI, PROVINCE AUTONOME, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI CENTRALI, ISTRUZIONE RICERCA
 👥 Soggetti: Tutto Il Personale
-✊ Sigle: SI COBAS]]></description>
+✊ Sigle: SGB, CUB, CUB PI]]></description>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/83f7f610-bd52-42cc-bc8b-b278ac87df2a</guid>
-    </item>
-
-    <item>
-      <title>SCIOPERO GENERALE DEL 3 OTTOBRE 2025 DI TUTTI I SETTORI PUBBLICI E PRIVATI</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/cea79c11-7cb0-43f9-826e-d6296d77c8bb</link>
-      <description><![CDATA[📅 Data sciopero: 03/10/2025
-⏰ Scadenza adesione: 17/11/2025
-🏛 Comparti: SANITA&#039;, ISTRUZIONE RICERCA, CORPO NAZIONALE DEI VIGILI DEL FUOCO, REGIONI A STATUTO SPECIALE, FUNZIONI LOCALI, AUTORITÀ INDIPENDENTI, PROVINCE AUTONOME, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI CENTRALI
-👥 Soggetti: Tutto Il Personale
-✊ Sigle: CGIL, FLC CGIL, CONFEDERAZIONE SINDACALE SARDA - CSS, FP CGIL]]></description>
-      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/cea79c11-7cb0-43f9-826e-d6296d77c8bb</guid>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/a34be36f-56d5-4307-90a0-11a6173d5aad</guid>
     </item>
 
     <item>
