@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Wed, 07 Oct 2026 12:12:38 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Oct 2026 12:12:38 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 22:22:51 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:22:51 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -43,6 +43,18 @@
 ✊ Sigle: USI-CIT, USI EDUCAZIONE, USIS]]></description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/1fdf3a51-2b8e-48b4-ae74-2f300e6495ea</guid>
+    </item>
+
+    <item>
+      <title>Sciopero generale di tutte le categorie pubbliche e private del 30 ottobre 2026</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/2d0aea06-f6a4-44da-9da7-a2954e97f434</link>
+      <description><![CDATA[📅 Data sciopero: 30/10/2026
+⏰ Scadenza adesione: 14/12/2026
+🏛 Comparti: ISTRUZIONE RICERCA, FUNZIONI CENTRALI, AUTORITÀ INDIPENDENTI, FUNZIONI LOCALI, REGIONI A STATUTO SPECIALE, CORPO NAZIONALE DEI VIGILI DEL FUOCO, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, PROVINCE AUTONOME, SANITA&#039;
+👥 Soggetti: Tutto Il Personale, Personale docente, Personale educativo e scolastico, Titolari di incarico di DSGA, Personale ausiliario, tecnico e amministrativo (ATA), Livelli IV-VIII, Personale di ricerca, Personale Non Dirigente, Personale Dirigente, Ricercatori e tecnologi, Professionisti Medici, Dirigenti sanitari del Ministero della Salute e dell&#039;Agenzia Italiana del Farmaco, Professionisti Non Medici, Personale educativo dei servizi educativi per l’infanzia, Polizia locale, Personale insegnante delle scuole gestite dagli enti locali, Personale docente delle scuole dell&#039;infanzia, Ruolo sanitario - Professione sanitaria ostetrica, Dirigenti medici, veterinari, odontoiatri e sanitari, Ruolo della ricerca sanitaria, Ruolo sanitario - Professioni tecnico sanitarie, Ruolo sanitario - Professioni sanitarie infermieristiche, Ruolo tecnico, Ruolo sanitario - Professioni sanitarie della riabilitazione, Ruolo amministrativo, Ruolo professionale, Ruolo sanitario - Professioni sanitarie della prevenzione, Ruolo sociosanitario (rientrano solo gli assistenti sociali e gli OSS)
+✊ Sigle: CONFEDERAZIONE USB]]></description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/2d0aea06-f6a4-44da-9da7-a2954e97f434</guid>
     </item>
 
     <item>
@@ -592,41 +604,27 @@ Precario
     </item>
 
     <item>
+      <title>Sciopero generale del 3 ottobre 2025 di tutte le categorie pubbliche e private</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/83f7f610-bd52-42cc-bc8b-b278ac87df2a</link>
+      <description><![CDATA[📅 Data sciopero: 03/10/2025
+⏰ Scadenza adesione: 17/11/2025
+🏛 Comparti: REGIONI A STATUTO SPECIALE, SANITA&#039;, ISTRUZIONE RICERCA, PROVINCE AUTONOME, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI LOCALI, FUNZIONI CENTRALI, AUTORITÀ INDIPENDENTI, CORPO NAZIONALE DEI VIGILI DEL FUOCO
+👥 Soggetti: Tutto Il Personale
+✊ Sigle: SI COBAS]]></description>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/83f7f610-bd52-42cc-bc8b-b278ac87df2a</guid>
+    </item>
+
+    <item>
       <title>SCIOPERO GENERALE DEL 3 OTTOBRE 2025 DI TUTTI I SETTORI PUBBLICI E PRIVATI</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/5372b6d5-3ec7-4bc0-89c5-c33881c9cb1e</link>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/cea79c11-7cb0-43f9-826e-d6296d77c8bb</link>
       <description><![CDATA[📅 Data sciopero: 03/10/2025
 ⏰ Scadenza adesione: 17/11/2025
-🏛 Comparti: ISTRUZIONE RICERCA, CORPO NAZIONALE DEI VIGILI DEL FUOCO, FUNZIONI CENTRALI, AUTORITÀ INDIPENDENTI, SANITA&#039;, REGIONI A STATUTO SPECIALE, PROVINCE AUTONOME, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI LOCALI
+🏛 Comparti: SANITA&#039;, ISTRUZIONE RICERCA, CORPO NAZIONALE DEI VIGILI DEL FUOCO, REGIONI A STATUTO SPECIALE, FUNZIONI LOCALI, AUTORITÀ INDIPENDENTI, PROVINCE AUTONOME, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI CENTRALI
 👥 Soggetti: Tutto Il Personale
-✊ Sigle: USB, COBAS SANITA' UNIVERSITA' E 
-RICERCA, CONFEDERAZIONE SINDACALE SARDA - CSS]]></description>
+✊ Sigle: CGIL, FLC CGIL, CONFEDERAZIONE SINDACALE SARDA - CSS, FP CGIL]]></description>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/5372b6d5-3ec7-4bc0-89c5-c33881c9cb1e</guid>
-    </item>
-
-    <item>
-      <title>Sciopero generale del 3 ottobre 2025 di tutti i settori pubblici e privati</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/a34be36f-56d5-4307-90a0-11a6173d5aad</link>
-      <description><![CDATA[📅 Data sciopero: 03/10/2025
-⏰ Scadenza adesione: 17/11/2025
-🏛 Comparti: FUNZIONI LOCALI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, REGIONI A STATUTO SPECIALE, SANITA&#039;, AUTORITÀ INDIPENDENTI, PROVINCE AUTONOME, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI CENTRALI, ISTRUZIONE RICERCA
-👥 Soggetti: Tutto Il Personale
-✊ Sigle: SGB, CUB, CUB PI]]></description>
-      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/a34be36f-56d5-4307-90a0-11a6173d5aad</guid>
-    </item>
-
-    <item>
-      <title>Sciopero generale del 3 ottobre 2025 di tutti i settori pubblici e privati</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/d2f0ca03-f8c6-45ea-9dee-587def953037</link>
-      <description><![CDATA[📅 Data sciopero: 03/10/2025
-⏰ Scadenza adesione: 17/11/2025
-🏛 Comparti: AUTORITÀ INDIPENDENTI, FUNZIONI CENTRALI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, PROVINCE AUTONOME, REGIONI A STATUTO SPECIALE, FUNZIONI LOCALI, ISTRUZIONE RICERCA, SANITA&#039;
-👥 Soggetti: Tutto Il Personale
-✊ Sigle: COBAS, COBAS SANITA' UNIVERSITA' E 
-RICERCA]]></description>
-      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/d2f0ca03-f8c6-45ea-9dee-587def953037</guid>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/cea79c11-7cb0-43f9-826e-d6296d77c8bb</guid>
     </item>
 
   </channel>
