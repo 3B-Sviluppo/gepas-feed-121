@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Thu, 15 Oct 2026 02:09:22 +0000</pubDate>
-    <lastBuildDate>Thu, 15 Oct 2026 02:09:22 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2026 10:28:58 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:28:58 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -34,11 +34,11 @@
     </item>
 
     <item>
-      <title>Sciopero Generale del 30 ottobre 2026</title>
+      <title>Sciopero Plurisettoriale del 30 ottobre 2026</title>
       <link>https://crusc-gepas.perlapa.gov.it/detail/1fdf3a51-2b8e-48b4-ae74-2f300e6495ea</link>
       <description><![CDATA[📅 Data sciopero: 30/10/2026
 ⏰ Scadenza adesione: 14/12/2026
-🏛 Comparti: FUNZIONI LOCALI, REGIONI A STATUTO SPECIALE, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI CENTRALI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, SANITA&#039;, AUTORITÀ INDIPENDENTI, ISTRUZIONE RICERCA, PROVINCE AUTONOME
+🏛 Comparti: SANITA&#039;, ISTRUZIONE RICERCA
 👥 Soggetti: Tutto Il Personale
 ✊ Sigle: USI-CIT, USI EDUCAZIONE, USIS]]></description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
