@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Mon, 19 Oct 2026 11:26:05 +0000</pubDate>
-    <lastBuildDate>Mon, 19 Oct 2026 11:26:05 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 17:52:47 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 17:52:47 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -50,9 +50,10 @@
       <link>https://crusc-gepas.perlapa.gov.it/detail/1fdf3a51-2b8e-48b4-ae74-2f300e6495ea</link>
       <description><![CDATA[📅 Data sciopero: 30/10/2026
 ⏰ Scadenza adesione: 14/12/2026
-🏛 Comparti: SANITA&#039;, ISTRUZIONE RICERCA
+🏛 Comparti: ISTRUZIONE RICERCA, SANITA&#039;
 👥 Soggetti: Tutto Il Personale
-✊ Sigle: USI-CIT, USI EDUCAZIONE, USIS]]></description>
+✊ Sigle: USI-CIT, FISI - FEDERAZIONE ITALIANA
+SINDACATI INTERCATEGORIALI, USIS, USI EDUCAZIONE]]></description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/1fdf3a51-2b8e-48b4-ae74-2f300e6495ea</guid>
     </item>
