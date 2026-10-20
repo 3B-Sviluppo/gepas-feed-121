@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Tue, 20 Oct 2026 02:25:36 +0000</pubDate>
-    <lastBuildDate>Tue, 20 Oct 2026 02:25:36 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Oct 2026 10:32:31 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:32:31 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -19,6 +19,18 @@
 ✊ Sigle: SI COBAS, SBM, ADL VARESE, SGB, CONFEDERAZIONE CUB, SGC - Sindacato Generale di Classe, CIB UNICOBAS, L.M.O., AL COBAS, UNICOBAS SCUOLA E UNIVERSITA']]></description>
       <pubDate>Fri, 04 Dec 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/222f9f10-17b4-40f6-b286-45407b816965</guid>
+    </item>
+
+    <item>
+      <title>Sciopero generale di tutti i settori pubblici e privati del 20 novembre 2026</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/1affff43-2027-41b2-9119-212f61b8bc10</link>
+      <description><![CDATA[📅 Data sciopero: 20/11/2026
+⏰ Scadenza adesione: 04/01/2027
+🏛 Comparti: FUNZIONI LOCALI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, ISTRUZIONE RICERCA, CORPO NAZIONALE DEI VIGILI DEL FUOCO, AUTORITÀ INDIPENDENTI, SANITA&#039;, PROVINCE AUTONOME, REGIONI A STATUTO SPECIALE, FUNZIONI CENTRALI
+👥 Soggetti: Tutto Il Personale
+✊ Sigle: FP CGIL]]></description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/1affff43-2027-41b2-9119-212f61b8bc10</guid>
     </item>
 
     <item>
@@ -614,18 +626,6 @@ Precario
 ✊ Sigle: SAESE]]></description>
       <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/5b30300b-7008-47cd-b50a-225cced5d279</guid>
-    </item>
-
-    <item>
-      <title>SCIOPERO GENERALE DEL 3 OTTOBRE 2025 DI TUTTI I SETTORI PUBBLICI E PRIVATI</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/cea79c11-7cb0-43f9-826e-d6296d77c8bb</link>
-      <description><![CDATA[📅 Data sciopero: 03/10/2025
-⏰ Scadenza adesione: 17/11/2025
-🏛 Comparti: SANITA&#039;, ISTRUZIONE RICERCA, CORPO NAZIONALE DEI VIGILI DEL FUOCO, REGIONI A STATUTO SPECIALE, FUNZIONI LOCALI, AUTORITÀ INDIPENDENTI, PROVINCE AUTONOME, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI CENTRALI
-👥 Soggetti: Tutto Il Personale
-✊ Sigle: CGIL, FLC CGIL, CONFEDERAZIONE SINDACALE SARDA - CSS, FP CGIL]]></description>
-      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/cea79c11-7cb0-43f9-826e-d6296d77c8bb</guid>
     </item>
 
   </channel>
