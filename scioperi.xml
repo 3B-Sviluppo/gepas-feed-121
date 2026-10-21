@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Wed, 21 Oct 2026 02:19:23 +0000</pubDate>
-    <lastBuildDate>Wed, 21 Oct 2026 02:19:23 +0000</lastBuildDate>
+    <pubDate>Wed, 21 Oct 2026 10:44:54 +0000</pubDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:44:54 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -14,9 +14,9 @@
       <link>https://crusc-gepas.perlapa.gov.it/detail/222f9f10-17b4-40f6-b286-45407b816965</link>
       <description><![CDATA[📅 Data sciopero: 04/12/2026
 ⏰ Scadenza adesione: 18/01/2027
-🏛 Comparti: PROVINCE AUTONOME, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, REGIONI A STATUTO SPECIALE, CORPO NAZIONALE DEI VIGILI DEL FUOCO, ISTRUZIONE RICERCA, FUNZIONI LOCALI, AUTORITÀ INDIPENDENTI, SANITA&#039;, FUNZIONI CENTRALI
-👥 Soggetti: Personale educativo dei servizi educativi per l’infanzia, Personale educativo e scolastico, Polizia locale, Personale Non Dirigente, Personale insegnante delle scuole gestite dagli enti locali, Personale Dirigente, Personale docente delle scuole dell&#039;infanzia, Tutto Il Personale, Personale ausiliario, tecnico e amministrativo (ATA), Titolari di incarico di DSGA, Ricercatori e tecnologi, Personale di ricerca, Personale docente, Livelli IV-VIII, Ruolo sanitario - Professioni sanitarie della riabilitazione, Ruolo amministrativo, Ruolo tecnico, Ruolo sanitario - Professioni sanitarie infermieristiche, Dirigenti medici, veterinari, odontoiatri e sanitari, Ruolo sanitario - Professioni sanitarie della prevenzione, Ruolo sanitario - Professione sanitaria ostetrica, Ruolo professionale, Ruolo sociosanitario (rientrano solo gli assistenti sociali e gli OSS), Ruolo sanitario - Professioni tecnico sanitarie, Ruolo della ricerca sanitaria, Dirigenti sanitari del Ministero della Salute e dell&#039;Agenzia Italiana del Farmaco, Professionisti Medici, Professionisti Non Medici
-✊ Sigle: SI COBAS, SBM, ADL VARESE, SGB, CONFEDERAZIONE CUB, SGC - Sindacato Generale di Classe, CIB UNICOBAS, L.M.O., AL COBAS, UNICOBAS SCUOLA E UNIVERSITA']]></description>
+🏛 Comparti: AUTORITÀ INDIPENDENTI, REGIONI A STATUTO SPECIALE, FUNZIONI CENTRALI, PROVINCE AUTONOME, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, ISTRUZIONE RICERCA, SANITA&#039;, FUNZIONI LOCALI
+👥 Soggetti: Personale Non Dirigente, Tutto Il Personale, Personale Dirigente, Polizia locale, Personale educativo e scolastico, Personale educativo dei servizi educativi per l’infanzia, Personale docente delle scuole dell&#039;infanzia, Personale insegnante delle scuole gestite dagli enti locali, Professionisti Medici, Dirigenti sanitari del Ministero della Salute e dell&#039;Agenzia Italiana del Farmaco, Professionisti Non Medici, Personale ausiliario, tecnico e amministrativo (ATA), Personale di ricerca, Titolari di incarico di DSGA, Livelli IV-VIII, Ricercatori e tecnologi, Personale docente, Ruolo sanitario - Professioni sanitarie della riabilitazione, Ruolo sociosanitario (rientrano solo gli assistenti sociali e gli OSS), Ruolo tecnico, Ruolo sanitario - Professione sanitaria ostetrica, Ruolo della ricerca sanitaria, Ruolo sanitario - Professioni sanitarie della prevenzione, Dirigenti medici, veterinari, odontoiatri e sanitari, Ruolo sanitario - Professioni sanitarie infermieristiche, Ruolo amministrativo, Ruolo professionale, Ruolo sanitario - Professioni tecnico sanitarie
+✊ Sigle: ADL VARESE, SGC - Sindacato Generale di Classe, SI COBAS, SGB, CONFEDERAZIONE CUB, SBM, L.M.O., AL COBAS]]></description>
       <pubDate>Fri, 04 Dec 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/222f9f10-17b4-40f6-b286-45407b816965</guid>
     </item>
@@ -80,6 +80,18 @@ SINDACATI INTERCATEGORIALI, CUB PI]]></description>
 ✊ Sigle: CONFEDERAZIONE USB, USB PI, SINDACATO SOCIALE DI BASE - SSB]]></description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/2d0aea06-f6a4-44da-9da7-a2954e97f434</guid>
+    </item>
+
+    <item>
+      <title>Sciopero Generale di tutte le categorie pubbliche e private del 30 ottobre 2026</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/73867905-792b-4490-b756-f6a1337c835a</link>
+      <description><![CDATA[📅 Data sciopero: 30/10/2026
+⏰ Scadenza adesione: 14/12/2026
+🏛 Comparti: AUTORITÀ INDIPENDENTI, REGIONI A STATUTO SPECIALE, PROVINCE AUTONOME, ISTRUZIONE RICERCA, SANITA&#039;, FUNZIONI CENTRALI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, FUNZIONI LOCALI
+👥 Soggetti: Tutto Il Personale
+✊ Sigle: CIB UNICOBAS, UNICOBAS SCUOLA E UNIVERSITA']]></description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/73867905-792b-4490-b756-f6a1337c835a</guid>
     </item>
 
     <item>
@@ -602,18 +614,6 @@ Precario
 📋 Note CGS: Adeguamento di FLAI TS alle indicazioni della Commissione di garanzia di cui alla nota di intervento pos. 3125/25 sett. gen.]]></description>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/e6d49f4d-7ec3-419a-ac60-7a59d04b058b</guid>
-    </item>
-
-    <item>
-      <title>SCIOPERO DEL 4 NOVEMBRE 2025 PERSONALE SCUOLA e UNIVERSITA&#039;</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/21f3b414-57a8-4aff-9fb1-4c4ac5489cd5</link>
-      <description><![CDATA[📅 Data sciopero: 04/11/2025
-⏰ Scadenza adesione: 19/12/2025
-🏛 Comparti: ISTRUZIONE RICERCA
-👥 Soggetti: PERSONALE DOCENTE E ATA DI TUTTI GLI ORDINI E GRADI DELLA SCUOLA E PERSONALE TECNICO, AMM.VO, BIBLIOTECARIO, CEL E DEL PERSONALE DELLE UNIVERSITA&#039;, COMPRESI I PRECARI DELL&#039;UNIVERSITA&#039; (RTD, ASSEGNISTI, BORSISTI, DOCENTI A CONTRATTO)
-✊ Sigle: OSSERVATORIO CONTRO MILITARIZZAZIONE SCUOLE E UNIVERSITA']]></description>
-      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/21f3b414-57a8-4aff-9fb1-4c4ac5489cd5</guid>
     </item>
 
     <item>
