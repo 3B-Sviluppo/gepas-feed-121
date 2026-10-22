@@ -5,9 +5,21 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Thu, 22 Oct 2026 10:46:24 +0000</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2026 10:46:24 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 16:12:14 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:12:14 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Sciopero di tutto il personale Docente, Educativo e Ata delle istituzioni scolastiche statali</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/c1ae9c4d-b1a4-4427-babf-947f24250218</link>
+      <description><![CDATA[📅 Data sciopero: 18/12/2026
+⏰ Scadenza adesione: 01/02/2027
+🏛 Comparti: ISTRUZIONE RICERCA
+👥 Soggetti: Personale Docente, Educativo e ATA, a tempo indeterminato e determinato, delle Istituzioni scolastiche statali.
+✊ Sigle: LA VOCE DEI GIUSTI]]></description>
+      <pubDate>Fri, 18 Dec 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/c1ae9c4d-b1a4-4427-babf-947f24250218</guid>
+    </item>
 
     <item>
       <title>Sciopero generale di tutte le categorie pubbliche e private del 4 dicembre 2026</title>
@@ -75,9 +87,9 @@ SINDACATI INTERCATEGORIALI, CUB PI]]></description>
       <link>https://crusc-gepas.perlapa.gov.it/detail/2d0aea06-f6a4-44da-9da7-a2954e97f434</link>
       <description><![CDATA[📅 Data sciopero: 30/10/2026
 ⏰ Scadenza adesione: 14/12/2026
-🏛 Comparti: FUNZIONI CENTRALI, FUNZIONI LOCALI, REGIONI A STATUTO SPECIALE, SANITA&#039;, AUTORITÀ INDIPENDENTI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, PROVINCE AUTONOME, ISTRUZIONE RICERCA
+🏛 Comparti: SANITA&#039;, PROVINCE AUTONOME, REGIONI A STATUTO SPECIALE, FUNZIONI LOCALI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, ISTRUZIONE RICERCA, AUTORITÀ INDIPENDENTI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, FUNZIONI CENTRALI
 👥 Soggetti: Tutto Il Personale
-✊ Sigle: CONFEDERAZIONE USB, USB PI, SINDACATO SOCIALE DI BASE - SSB]]></description>
+✊ Sigle: CONFEDERAZIONE USB, SINDACATO SOCIALE DI BASE - SSB, USB PI]]></description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/2d0aea06-f6a4-44da-9da7-a2954e97f434</guid>
     </item>
@@ -614,18 +626,6 @@ Precario
 📋 Note CGS: Adeguamento di FLAI TS alle indicazioni della Commissione di garanzia di cui alla nota di intervento pos. 3125/25 sett. gen.]]></description>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/e6d49f4d-7ec3-419a-ac60-7a59d04b058b</guid>
-    </item>
-
-    <item>
-      <title>SCIOPERO DEL 4 NOVEMBRE 2025 PERSONALE SCUOLA</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/609f038c-b3bf-49a3-b422-f84d36cb3bac</link>
-      <description><![CDATA[📅 Data sciopero: 04/11/2025
-⏰ Scadenza adesione: 19/12/2025
-🏛 Comparti: ISTRUZIONE RICERCA
-👥 Soggetti: PERSONALE DOCENTE, DIRIGENTE E ATA, DI RUOLO E PRECARIO, IN ITALIA E ALL&#039;ESTERO
-✊ Sigle: SISA]]></description>
-      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/609f038c-b3bf-49a3-b422-f84d36cb3bac</guid>
     </item>
 
   </channel>
