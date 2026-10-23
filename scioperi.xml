@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Fri, 23 Oct 2026 02:19:53 +0000</pubDate>
-    <lastBuildDate>Fri, 23 Oct 2026 02:19:53 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 10:37:54 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:37:54 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -87,9 +87,10 @@ SINDACATI INTERCATEGORIALI, CUB PI]]></description>
       <link>https://crusc-gepas.perlapa.gov.it/detail/2d0aea06-f6a4-44da-9da7-a2954e97f434</link>
       <description><![CDATA[📅 Data sciopero: 30/10/2026
 ⏰ Scadenza adesione: 14/12/2026
-🏛 Comparti: SANITA&#039;, PROVINCE AUTONOME, REGIONI A STATUTO SPECIALE, FUNZIONI LOCALI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, ISTRUZIONE RICERCA, AUTORITÀ INDIPENDENTI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, FUNZIONI CENTRALI
+🏛 Comparti: REGIONI A STATUTO SPECIALE, ISTRUZIONE RICERCA, AUTORITÀ INDIPENDENTI, SANITA&#039;, PROVINCE AUTONOME, FUNZIONI LOCALI, FUNZIONI CENTRALI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, CORPO NAZIONALE DEI VIGILI DEL FUOCO
 👥 Soggetti: Tutto Il Personale
-✊ Sigle: CONFEDERAZIONE USB, SINDACATO SOCIALE DI BASE - SSB, USB PI]]></description>
+✊ Sigle: CONFEDERAZIONE USB, USB PI, SINDACATO SOCIALE DI BASE - SSB
+📋 Note CGS: In adeguamento alle indicazioni della Commissione di garanzia di cui alla nota d&#039;intervento Pos. n. 1223/26, la Confederazione USB, in data 16 ottobre 2026, ha comunicato, per i Vigili del Fuoco, l&#039;esonero dallo sciopero del personale operante presso le sedi aeroportuali.]]></description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/2d0aea06-f6a4-44da-9da7-a2954e97f434</guid>
     </item>
@@ -99,7 +100,7 @@ SINDACATI INTERCATEGORIALI, CUB PI]]></description>
       <link>https://crusc-gepas.perlapa.gov.it/detail/73867905-792b-4490-b756-f6a1337c835a</link>
       <description><![CDATA[📅 Data sciopero: 30/10/2026
 ⏰ Scadenza adesione: 14/12/2026
-🏛 Comparti: AUTORITÀ INDIPENDENTI, REGIONI A STATUTO SPECIALE, PROVINCE AUTONOME, ISTRUZIONE RICERCA, SANITA&#039;, FUNZIONI CENTRALI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, FUNZIONI LOCALI
+🏛 Comparti: ISTRUZIONE RICERCA, REGIONI A STATUTO SPECIALE, PROVINCE AUTONOME, AUTORITÀ INDIPENDENTI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, FUNZIONI LOCALI, FUNZIONI CENTRALI, SANITA&#039;, PRESIDENZA DEL CONSIGLIO DEI MINISTRI
 👥 Soggetti: Tutto Il Personale
 ✊ Sigle: CIB UNICOBAS, UNICOBAS SCUOLA E UNIVERSITA']]></description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
@@ -111,9 +112,9 @@ SINDACATI INTERCATEGORIALI, CUB PI]]></description>
       <link>https://crusc-gepas.perlapa.gov.it/detail/bbe12437-6686-4f56-a4a3-3b7dd8c7c79e</link>
       <description><![CDATA[📅 Data sciopero: 30/10/2026
 ⏰ Scadenza adesione: 14/12/2026
-🏛 Comparti: PROVINCE AUTONOME, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI LOCALI, REGIONI A STATUTO SPECIALE, SANITA&#039;, AUTORITÀ INDIPENDENTI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, ISTRUZIONE RICERCA, FUNZIONI CENTRALI
+🏛 Comparti: SANITA&#039;, FUNZIONI CENTRALI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, REGIONI A STATUTO SPECIALE, AUTORITÀ INDIPENDENTI, PROVINCE AUTONOME, ISTRUZIONE RICERCA, FUNZIONI LOCALI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI
 👥 Soggetti: Tutto Il Personale
-✊ Sigle: SIAL COBAS, CLAP, COBAS, ADL COBAS]]></description>
+✊ Sigle: SIAL COBAS, ADL COBAS, CLAP, COBAS]]></description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/bbe12437-6686-4f56-a4a3-3b7dd8c7c79e</guid>
     </item>
