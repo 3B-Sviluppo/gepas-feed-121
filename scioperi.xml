@@ -5,12 +5,12 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Wed, 28 Oct 2026 11:46:04 +0000</pubDate>
-    <lastBuildDate>Wed, 28 Oct 2026 11:46:04 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 17:31:50 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:31:50 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Sciopero di tutto il personale Docente, Educativo e Ata delle istituzioni scolastiche statali</title>
+      <title>Sciopero di tutto il personale Docente, Educativo e Ata delle istituzioni scolastiche statali del 18 dicembre 2026</title>
       <link>https://crusc-gepas.perlapa.gov.it/detail/c1ae9c4d-b1a4-4427-babf-947f24250218</link>
       <description><![CDATA[📅 Data sciopero: 18/12/2026
 ⏰ Scadenza adesione: 01/02/2027
@@ -58,6 +58,18 @@
     </item>
 
     <item>
+      <title>Sciopero del personale Docente, Dirigente e ATA di ruolo e precario in Italia e all&#039;estero del 20 novembre 2026</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/da60fc23-fe87-451e-804c-c6aa61ac8793</link>
+      <description><![CDATA[📅 Data sciopero: 20/11/2026
+⏰ Scadenza adesione: 04/01/2027
+🏛 Comparti: ISTRUZIONE RICERCA
+👥 Soggetti: Personale Docente, Dirigente e ATA di ruolo e precario, in Italia e all&#039;estero
+✊ Sigle: SISA]]></description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/da60fc23-fe87-451e-804c-c6aa61ac8793</guid>
+    </item>
+
+    <item>
       <title>Sciopero del 4 Novembre 2026 Scuola e Università</title>
       <link>https://crusc-gepas.perlapa.gov.it/detail/897572f4-306b-4669-872e-670049349204</link>
       <description><![CDATA[📅 Data sciopero: 04/11/2026
@@ -100,7 +112,7 @@ SINDACATI INTERCATEGORIALI, CUB PI]]></description>
       <link>https://crusc-gepas.perlapa.gov.it/detail/73867905-792b-4490-b756-f6a1337c835a</link>
       <description><![CDATA[📅 Data sciopero: 30/10/2026
 ⏰ Scadenza adesione: 14/12/2026
-🏛 Comparti: AUTORITÀ INDIPENDENTI, FUNZIONI LOCALI, ISTRUZIONE RICERCA, SANITA&#039;, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI CENTRALI, REGIONI A STATUTO SPECIALE, PROVINCE AUTONOME, CORPO NAZIONALE DEI VIGILI DEL FUOCO
+🏛 Comparti: REGIONI A STATUTO SPECIALE, PROVINCE AUTONOME, ISTRUZIONE RICERCA, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI LOCALI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, SANITA&#039;, AUTORITÀ INDIPENDENTI, FUNZIONI CENTRALI
 👥 Soggetti: Tutto Il Personale
 ✊ Sigle: CIB UNICOBAS, UNICOBAS SCUOLA E UNIVERSITA'
 📋 Note CGS: La CIB UNICOBAS, con nota del 23 ottobre 2026, ha comunicato l&#039;adeguamento alle indicazioni della Commissione di garanzia di cui alla nota Pos. n. 1288/26.]]></description>
@@ -488,19 +500,6 @@ Precario
 📋 Note CGS: Nota della CGIL del 13.11.2025, acquisita al prot. DFP 82155, in risposta all&#039;indicazione immediata della Commissione di Garanzia Poss. 3124/25 Sett: GEN]]></description>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/93a8604d-ef2b-41e9-8063-f602fca750f7</guid>
-    </item>
-
-    <item>
-      <title>Sciopero generale del 28 novembre 2025</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/105d1361-8370-4882-844a-e00d95563f9c</link>
-      <description><![CDATA[📅 Data sciopero: 28/11/2025
-⏰ Scadenza adesione: 12/01/2026
-🏛 Comparti: SANITA&#039;, AUTORITÀ INDIPENDENTI, FUNZIONI LOCALI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, REGIONI A STATUTO SPECIALE, PROVINCE AUTONOME, FUNZIONI CENTRALI, ISTRUZIONE RICERCA, PRESIDENZA DEL CONSIGLIO DEI MINISTRI
-👥 Soggetti: Tutto Il Personale
-✊ Sigle: USI
-📋 Note CGS: Adeguamento di USI alle indicazioni della Commissione di garanzia di cui alla nota di intervento pos. 3176/25 sett. gen.]]></description>
-      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/105d1361-8370-4882-844a-e00d95563f9c</guid>
     </item>
 
     <item>
