@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Wed, 28 Oct 2026 02:51:20 +0000</pubDate>
-    <lastBuildDate>Wed, 28 Oct 2026 02:51:20 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 11:46:04 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 11:46:04 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -38,9 +38,9 @@
       <link>https://crusc-gepas.perlapa.gov.it/detail/1affff43-2027-41b2-9119-212f61b8bc10</link>
       <description><![CDATA[📅 Data sciopero: 20/11/2026
 ⏰ Scadenza adesione: 04/01/2027
-🏛 Comparti: FUNZIONI CENTRALI, SANITA&#039;, ISTRUZIONE RICERCA, REGIONI A STATUTO SPECIALE, FUNZIONI LOCALI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, PROVINCE AUTONOME, CORPO NAZIONALE DEI VIGILI DEL FUOCO, AUTORITÀ INDIPENDENTI
+🏛 Comparti: CORPO NAZIONALE DEI VIGILI DEL FUOCO, PROVINCE AUTONOME, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI LOCALI, AUTORITÀ INDIPENDENTI, SANITA&#039;, FUNZIONI CENTRALI, ISTRUZIONE RICERCA, REGIONI A STATUTO SPECIALE
 👥 Soggetti: Tutto Il Personale
-✊ Sigle: CGIL, FLC CGIL]]></description>
+✊ Sigle: CGIL, FP CGIL, FLC CGIL]]></description>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/1affff43-2027-41b2-9119-212f61b8bc10</guid>
     </item>
@@ -50,7 +50,7 @@
       <link>https://crusc-gepas.perlapa.gov.it/detail/aad123cd-64ff-4514-b4c2-fca008538847</link>
       <description><![CDATA[📅 Data sciopero: 20/11/2026
 ⏰ Scadenza adesione: 04/01/2027
-🏛 Comparti: ISTRUZIONE RICERCA, CORPO NAZIONALE DEI VIGILI DEL FUOCO, REGIONI A STATUTO SPECIALE, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI CENTRALI, FUNZIONI LOCALI, AUTORITÀ INDIPENDENTI, SANITA&#039;, PROVINCE AUTONOME
+🏛 Comparti: REGIONI A STATUTO SPECIALE, CORPO NAZIONALE DEI VIGILI DEL FUOCO, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, PROVINCE AUTONOME, AUTORITÀ INDIPENDENTI, FUNZIONI LOCALI, ISTRUZIONE RICERCA, FUNZIONI CENTRALI, SANITA&#039;
 👥 Soggetti: Tutto Il Personale
 ✊ Sigle: USB PI]]></description>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
