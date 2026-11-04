@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Wed, 04 Nov 2026 03:40:53 +0000</pubDate>
-    <lastBuildDate>Wed, 04 Nov 2026 03:40:53 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 13:24:22 +0000</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:24:22 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -50,10 +50,10 @@
       <link>https://crusc-gepas.perlapa.gov.it/detail/1affff43-2027-41b2-9119-212f61b8bc10</link>
       <description><![CDATA[📅 Data sciopero: 20/11/2026
 ⏰ Scadenza adesione: 04/01/2027
-🏛 Comparti: CORPO NAZIONALE DEI VIGILI DEL FUOCO, FUNZIONI LOCALI, SANITA&#039;, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, ISTRUZIONE RICERCA, REGIONI A STATUTO SPECIALE, AUTORITÀ INDIPENDENTI, FUNZIONI CENTRALI, PROVINCE AUTONOME
+🏛 Comparti: AUTORITÀ INDIPENDENTI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, FUNZIONI CENTRALI, REGIONI A STATUTO SPECIALE, PROVINCE AUTONOME, FUNZIONI LOCALI, ISTRUZIONE RICERCA, SANITA&#039;
 👥 Soggetti: Tutto Il Personale
 ✊ Sigle: CGIL, FLC CGIL, FP CGIL
-📋 Note CGS: In adeguamento parziale alle indicazioni della Commissione di garanzia di cui alla nota d&#039;intervento Poss. n. 1283/26, la CGL con nota del 30 ottobre 2026, ha comunicato i settori ed aziende escluse dallo sciopero.]]></description>
+📋 Note CGS: Adeguamento parziale alle indicazioni della Commissione di garanzia di cui all&#039;intervento Poss. n. 1283/26 con nota del 30 ottobre 2026.]]></description>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/1affff43-2027-41b2-9119-212f61b8bc10</guid>
     </item>
