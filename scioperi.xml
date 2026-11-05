@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Thu, 05 Nov 2026 13:38:57 +0000</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2026 13:38:57 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2026 22:58:45 +0000</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2026 22:58:45 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -566,19 +566,6 @@ Precario
 
     <item>
       <title>Sciopero generale del 28 novembre 2025</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/243215a9-46a5-4835-96ec-92dd02da5a89</link>
-      <description><![CDATA[📅 Data sciopero: 28/11/2025
-⏰ Scadenza adesione: 12/01/2026
-🏛 Comparti: ISTRUZIONE RICERCA, FUNZIONI CENTRALI, PROVINCE AUTONOME, SANITA&#039;, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, REGIONI A STATUTO SPECIALE, AUTORITÀ INDIPENDENTI, FUNZIONI LOCALI
-👥 Soggetti: Tutto Il Personale
-✊ Sigle: USI-CIT
-📋 Note CGS: Nota di risposta della USI-CIT, acquisita al prot. DFP 85176, in risposta all&#039;indicazione immediata della Commissione di Garanzia Pos. 3157/25 Sett: GEN]]></description>
-      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/243215a9-46a5-4835-96ec-92dd02da5a89</guid>
-    </item>
-
-    <item>
-      <title>Sciopero generale del 28 novembre 2025</title>
       <link>https://crusc-gepas.perlapa.gov.it/detail/4a1b7014-40ba-49ee-afea-8963056177dc</link>
       <description><![CDATA[📅 Data sciopero: 28/11/2025
 ⏰ Scadenza adesione: 12/01/2026
@@ -626,6 +613,19 @@ Precario
 ✊ Sigle: SINDACATO SOCIALE DI BASE - SSB]]></description>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/d9209d74-68a0-49b5-bdca-0daf0fe51c90</guid>
+    </item>
+
+    <item>
+      <title>Sciopero generale del 28 novembre 2025</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/e6d49f4d-7ec3-419a-ac60-7a59d04b058b</link>
+      <description><![CDATA[📅 Data sciopero: 28/11/2025
+⏰ Scadenza adesione: 12/01/2026
+🏛 Comparti: CORPO NAZIONALE DEI VIGILI DEL FUOCO, ISTRUZIONE RICERCA, AUTORITÀ INDIPENDENTI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, PROVINCE AUTONOME, SANITA&#039;, REGIONI A STATUTO SPECIALE, FUNZIONI CENTRALI, FUNZIONI LOCALI
+👥 Soggetti: Personale Non Dirigente, Tutto Il Personale, Personale Dirigente, Personale educativo e scolastico, Titolari di incarico di DSGA, Personale docente, Personale ausiliario, tecnico e amministrativo (ATA), Livelli IV-VIII, Ricercatori e tecnologi, Personale di ricerca, Personale docente delle scuole dell&#039;infanzia, Personale educativo dei servizi educativi per l’infanzia, Polizia locale, Personale insegnante delle scuole gestite dagli enti locali, Ruolo sociosanitario (rientrano solo gli assistenti sociali e gli OSS), Ruolo sanitario - Professioni sanitarie infermieristiche, Ruolo professionale, Ruolo della ricerca sanitaria, Ruolo sanitario - Professioni tecnico sanitarie, Ruolo sanitario - Professione sanitaria ostetrica, Ruolo amministrativo, Dirigenti medici, veterinari, odontoiatri e sanitari, Ruolo sanitario - Professioni sanitarie della riabilitazione, Ruolo tecnico, Ruolo sanitario - Professioni sanitarie della prevenzione, Professionisti Non Medici, Dirigenti sanitari del Ministero della Salute e dell&#039;Agenzia Italiana del Farmaco, Professionisti Medici
+✊ Sigle: FLAI TS
+📋 Note CGS: Adeguamento di FLAI TS alle indicazioni della Commissione di garanzia di cui alla nota di intervento pos. 3125/25 sett. gen.]]></description>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/e6d49f4d-7ec3-419a-ac60-7a59d04b058b</guid>
     </item>
 
   </channel>
