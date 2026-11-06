@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Fri, 06 Nov 2026 03:57:46 +0000</pubDate>
-    <lastBuildDate>Fri, 06 Nov 2026 03:57:46 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 13:22:18 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 13:22:18 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -50,9 +50,9 @@
       <link>https://crusc-gepas.perlapa.gov.it/detail/1affff43-2027-41b2-9119-212f61b8bc10</link>
       <description><![CDATA[📅 Data sciopero: 20/11/2026
 ⏰ Scadenza adesione: 04/01/2027
-🏛 Comparti: AUTORITÀ INDIPENDENTI, SANITA&#039;, ISTRUZIONE RICERCA, CORPO NAZIONALE DEI VIGILI DEL FUOCO, FUNZIONI CENTRALI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, REGIONI A STATUTO SPECIALE, FUNZIONI LOCALI, PROVINCE AUTONOME
+🏛 Comparti: CORPO NAZIONALE DEI VIGILI DEL FUOCO, SANITA&#039;, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, PROVINCE AUTONOME, FUNZIONI LOCALI, REGIONI A STATUTO SPECIALE, ISTRUZIONE RICERCA, AUTORITÀ INDIPENDENTI, FUNZIONI CENTRALI
 👥 Soggetti: Tutto Il Personale
-✊ Sigle: CGIL, FLC CGIL, FP CGIL, CONFEDERAZIONE SINDACALE SARDA - CSS
+✊ Sigle: CGIL, CONFEDERAZIONE SINDACALE SARDA - CSS, FLC CGIL, FP CGIL
 📋 Note CGS: Adeguamento parziale alle indicazioni della Commissione di garanzia di cui all&#039;intervento Poss. n. 1283/26 con nota del 30 ottobre 2026.]]></description>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/1affff43-2027-41b2-9119-212f61b8bc10</guid>
@@ -68,6 +68,18 @@
 ✊ Sigle: FEDERAZIONE GILDA UNAMS]]></description>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/2044e755-2aef-4db4-bc7b-579eac527b02</guid>
+    </item>
+
+    <item>
+      <title>Sciopero generale di tutti i settori pubblici e privati del 20 novembre 2026</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/2f414f72-ad9c-49a3-9365-6f763deca18a</link>
+      <description><![CDATA[📅 Data sciopero: 20/11/2026
+⏰ Scadenza adesione: 04/01/2027
+🏛 Comparti: FUNZIONI LOCALI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, PROVINCE AUTONOME, REGIONI A STATUTO SPECIALE, SANITA&#039;, ISTRUZIONE RICERCA, FUNZIONI CENTRALI, AUTORITÀ INDIPENDENTI
+👥 Soggetti: Tutto Il Personale
+✊ Sigle: CONFEDERAZIONE COBAS, SIAL COBAS, CLAP]]></description>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/2f414f72-ad9c-49a3-9365-6f763deca18a</guid>
     </item>
 
     <item>
@@ -552,16 +564,15 @@ Precario
     </item>
 
     <item>
-      <title>Sciopero generale del 28 novembre 2025</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/105d1361-8370-4882-844a-e00d95563f9c</link>
+      <title>Sciopero del 28 novembre 2025 Comparto Scuola, Ricerca e Università</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/4827728a-bd77-4972-8f48-94832f6cc1df</link>
       <description><![CDATA[📅 Data sciopero: 28/11/2025
 ⏰ Scadenza adesione: 12/01/2026
-🏛 Comparti: SANITA&#039;, AUTORITÀ INDIPENDENTI, FUNZIONI LOCALI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, REGIONI A STATUTO SPECIALE, PROVINCE AUTONOME, FUNZIONI CENTRALI, ISTRUZIONE RICERCA, PRESIDENZA DEL CONSIGLIO DEI MINISTRI
-👥 Soggetti: Tutto Il Personale
-✊ Sigle: USI
-📋 Note CGS: Adeguamento di USI alle indicazioni della Commissione di garanzia di cui alla nota di intervento pos. 3176/25 sett. gen.]]></description>
+🏛 Comparti: ISTRUZIONE RICERCA
+👥 Soggetti: Tutto il personale Docente e Ata, a tempo determinato ed indeterminato, delle scuole, della ricerca e delle università, in Italia e all&#039;estero
+✊ Sigle: UNICOBAS SCUOLA E UNIVERSITA', FISI]]></description>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/105d1361-8370-4882-844a-e00d95563f9c</guid>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/4827728a-bd77-4972-8f48-94832f6cc1df</guid>
     </item>
 
     <item>
@@ -579,15 +590,15 @@ Precario
 
     <item>
       <title>Sciopero generale del 28 novembre 2025</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/625011c5-8e0a-454b-a7af-52eaa11baded</link>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/83a2bce0-6d80-4c9f-a55a-c46b6e924858</link>
       <description><![CDATA[📅 Data sciopero: 28/11/2025
 ⏰ Scadenza adesione: 12/01/2026
-🏛 Comparti: PRESIDENZA DEL CONSIGLIO DEI MINISTRI, AUTORITÀ INDIPENDENTI, PROVINCE AUTONOME, REGIONI A STATUTO SPECIALE, SANITA&#039;, CORPO NAZIONALE DEI VIGILI DEL FUOCO, FUNZIONI LOCALI, ISTRUZIONE RICERCA, FUNZIONI CENTRALI
+🏛 Comparti: FUNZIONI LOCALI, SANITA&#039;, AUTORITÀ INDIPENDENTI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, ISTRUZIONE RICERCA, CORPO NAZIONALE DEI VIGILI DEL FUOCO, REGIONI A STATUTO SPECIALE, PROVINCE AUTONOME, FUNZIONI CENTRALI
 👥 Soggetti: Tutto Il Personale
-✊ Sigle: CLAP, COBAS, SIAL COBAS, ADL COBAS, COBAS SCUOLA
-📋 Note CGS: Adeguamento di ADL COBAS, CLAP, SIAL COBAS e della Confederazione COBAS alle indicazioni della Commissione di garanzia di cui alla nota di intervento pos. 3105/25 sett. gen.]]></description>
+✊ Sigle: CONFEDERAZIONE USB, USB PI
+📋 Note CGS: Adeguamento della USB alle indicazioni della Commissione di Garanzia di cui alla nota d&#039;intervento pos. 3102/25 Sett. GEN.]]></description>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/625011c5-8e0a-454b-a7af-52eaa11baded</guid>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/83a2bce0-6d80-4c9f-a55a-c46b6e924858</guid>
     </item>
 
     <item>
@@ -601,18 +612,6 @@ Precario
 📋 Note CGS: Adeguamento della CUB e della SGB alle indicazioni della Commissione di garanzia di cui alla nota di intervento pos. 3088/25 sett. gen.]]></description>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/d34859a4-25f3-49eb-b64b-7495cedd80a8</guid>
-    </item>
-
-    <item>
-      <title>Sciopero del 28 novembre 2025 Scuola</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/d9209d74-68a0-49b5-bdca-0daf0fe51c90</link>
-      <description><![CDATA[📅 Data sciopero: 28/11/2025
-⏰ Scadenza adesione: 12/01/2026
-🏛 Comparti: ISTRUZIONE RICERCA
-👥 Soggetti: Personale ausiliario, tecnico e amministrativo (ATA), Personale docente, Titolari di incarico di DSGA, Personale Dirigente, Personale educativo e scolastico
-✊ Sigle: SINDACATO SOCIALE DI BASE - SSB]]></description>
-      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/d9209d74-68a0-49b5-bdca-0daf0fe51c90</guid>
     </item>
 
     <item>
