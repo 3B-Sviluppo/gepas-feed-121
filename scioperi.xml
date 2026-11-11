@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Wed, 11 Nov 2026 03:31:49 +0000</pubDate>
-    <lastBuildDate>Wed, 11 Nov 2026 03:31:49 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 13:05:33 +0000</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:05:33 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -62,9 +62,10 @@
       <link>https://crusc-gepas.perlapa.gov.it/detail/1affff43-2027-41b2-9119-212f61b8bc10</link>
       <description><![CDATA[📅 Data sciopero: 20/11/2026
 ⏰ Scadenza adesione: 04/01/2027
-🏛 Comparti: CORPO NAZIONALE DEI VIGILI DEL FUOCO, SANITA&#039;, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, PROVINCE AUTONOME, FUNZIONI LOCALI, REGIONI A STATUTO SPECIALE, ISTRUZIONE RICERCA, AUTORITÀ INDIPENDENTI, FUNZIONI CENTRALI
+🏛 Comparti: PRESIDENZA DEL CONSIGLIO DEI MINISTRI, PROVINCE AUTONOME, CORPO NAZIONALE DEI VIGILI DEL FUOCO, REGIONI A STATUTO SPECIALE, FUNZIONI CENTRALI, SANITA&#039;, FUNZIONI LOCALI, AUTORITÀ INDIPENDENTI, ISTRUZIONE RICERCA
 👥 Soggetti: Tutto Il Personale
-✊ Sigle: CGIL, CONFEDERAZIONE SINDACALE SARDA - CSS, FLC CGIL, FP CGIL
+✊ Sigle: CGIL, FP CGIL, FLC CGIL, CONFEDERAZIONE SINDACALE SARDA - CSS, FISI - FEDERAZIONE ITALIANA
+SINDACATI INTERCATEGORIALI
 📋 Note CGS: Adeguamento parziale alle indicazioni della Commissione di garanzia di cui all&#039;intervento Poss. n. 1283/26 con nota del 30 ottobre 2026.]]></description>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/1affff43-2027-41b2-9119-212f61b8bc10</guid>
@@ -87,9 +88,9 @@
       <link>https://crusc-gepas.perlapa.gov.it/detail/2f414f72-ad9c-49a3-9365-6f763deca18a</link>
       <description><![CDATA[📅 Data sciopero: 20/11/2026
 ⏰ Scadenza adesione: 04/01/2027
-🏛 Comparti: SANITA&#039;, AUTORITÀ INDIPENDENTI, PROVINCE AUTONOME, FUNZIONI CENTRALI, FUNZIONI LOCALI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, ISTRUZIONE RICERCA, REGIONI A STATUTO SPECIALE, CORPO NAZIONALE DEI VIGILI DEL FUOCO
+🏛 Comparti: FUNZIONI LOCALI, PROVINCE AUTONOME, REGIONI A STATUTO SPECIALE, ISTRUZIONE RICERCA, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, AUTORITÀ INDIPENDENTI, SANITA&#039;, CORPO NAZIONALE DEI VIGILI DEL FUOCO, FUNZIONI CENTRALI
 👥 Soggetti: Tutto Il Personale
-✊ Sigle: CONFEDERAZIONE COBAS, CLAP, SIAL COBAS, ADL VARESE, CONFEDERAZIONE CUB]]></description>
+✊ Sigle: CONFEDERAZIONE COBAS, CLAP, SIAL COBAS, CONFEDERAZIONE CUB, ADL VARESE]]></description>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/2f414f72-ad9c-49a3-9365-6f763deca18a</guid>
     </item>
@@ -600,28 +601,28 @@ Precario
     </item>
 
     <item>
-      <title>Sciopero del 28 novembre 2025 Comparto Scuola, Ricerca e Università</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/4827728a-bd77-4972-8f48-94832f6cc1df</link>
+      <title>Sciopero generale del 28 novembre 2025</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/105d1361-8370-4882-844a-e00d95563f9c</link>
       <description><![CDATA[📅 Data sciopero: 28/11/2025
 ⏰ Scadenza adesione: 12/01/2026
-🏛 Comparti: ISTRUZIONE RICERCA
-👥 Soggetti: Tutto il personale Docente e Ata, a tempo determinato ed indeterminato, delle scuole, della ricerca e delle università, in Italia e all&#039;estero
-✊ Sigle: UNICOBAS SCUOLA E UNIVERSITA', FISI]]></description>
+🏛 Comparti: SANITA&#039;, AUTORITÀ INDIPENDENTI, FUNZIONI LOCALI, CORPO NAZIONALE DEI VIGILI DEL FUOCO, REGIONI A STATUTO SPECIALE, PROVINCE AUTONOME, FUNZIONI CENTRALI, ISTRUZIONE RICERCA, PRESIDENZA DEL CONSIGLIO DEI MINISTRI
+👥 Soggetti: Tutto Il Personale
+✊ Sigle: USI
+📋 Note CGS: Adeguamento di USI alle indicazioni della Commissione di garanzia di cui alla nota di intervento pos. 3176/25 sett. gen.]]></description>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/4827728a-bd77-4972-8f48-94832f6cc1df</guid>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/105d1361-8370-4882-844a-e00d95563f9c</guid>
     </item>
 
     <item>
-      <title>Sciopero generale del 28 novembre 2025</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/e6d49f4d-7ec3-419a-ac60-7a59d04b058b</link>
+      <title>Sciopero del 28 novembre 2025 Scuola</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/d9209d74-68a0-49b5-bdca-0daf0fe51c90</link>
       <description><![CDATA[📅 Data sciopero: 28/11/2025
 ⏰ Scadenza adesione: 12/01/2026
-🏛 Comparti: CORPO NAZIONALE DEI VIGILI DEL FUOCO, ISTRUZIONE RICERCA, AUTORITÀ INDIPENDENTI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, PROVINCE AUTONOME, SANITA&#039;, REGIONI A STATUTO SPECIALE, FUNZIONI CENTRALI, FUNZIONI LOCALI
-👥 Soggetti: Personale Non Dirigente, Tutto Il Personale, Personale Dirigente, Personale educativo e scolastico, Titolari di incarico di DSGA, Personale docente, Personale ausiliario, tecnico e amministrativo (ATA), Livelli IV-VIII, Ricercatori e tecnologi, Personale di ricerca, Personale docente delle scuole dell&#039;infanzia, Personale educativo dei servizi educativi per l’infanzia, Polizia locale, Personale insegnante delle scuole gestite dagli enti locali, Ruolo sociosanitario (rientrano solo gli assistenti sociali e gli OSS), Ruolo sanitario - Professioni sanitarie infermieristiche, Ruolo professionale, Ruolo della ricerca sanitaria, Ruolo sanitario - Professioni tecnico sanitarie, Ruolo sanitario - Professione sanitaria ostetrica, Ruolo amministrativo, Dirigenti medici, veterinari, odontoiatri e sanitari, Ruolo sanitario - Professioni sanitarie della riabilitazione, Ruolo tecnico, Ruolo sanitario - Professioni sanitarie della prevenzione, Professionisti Non Medici, Dirigenti sanitari del Ministero della Salute e dell&#039;Agenzia Italiana del Farmaco, Professionisti Medici
-✊ Sigle: FLAI TS
-📋 Note CGS: Adeguamento di FLAI TS alle indicazioni della Commissione di garanzia di cui alla nota di intervento pos. 3125/25 sett. gen.]]></description>
+🏛 Comparti: ISTRUZIONE RICERCA
+👥 Soggetti: Personale ausiliario, tecnico e amministrativo (ATA), Personale docente, Titolari di incarico di DSGA, Personale Dirigente, Personale educativo e scolastico
+✊ Sigle: SINDACATO SOCIALE DI BASE - SSB]]></description>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/e6d49f4d-7ec3-419a-ac60-7a59d04b058b</guid>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/d9209d74-68a0-49b5-bdca-0daf0fe51c90</guid>
     </item>
 
   </channel>
