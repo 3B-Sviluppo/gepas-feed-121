@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Fri, 20 Nov 2026 05:42:32 +0000</pubDate>
-    <lastBuildDate>Fri, 20 Nov 2026 05:42:32 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 14:30:54 +0000</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:30:54 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -602,15 +602,16 @@ Precario
     </item>
 
     <item>
-      <title>Sciopero del 28 novembre 2025 Comparto Scuola, Ricerca e Università</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/4827728a-bd77-4972-8f48-94832f6cc1df</link>
+      <title>Sciopero generale del 28 novembre 2025</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/4a1b7014-40ba-49ee-afea-8963056177dc</link>
       <description><![CDATA[📅 Data sciopero: 28/11/2025
 ⏰ Scadenza adesione: 12/01/2026
-🏛 Comparti: ISTRUZIONE RICERCA
-👥 Soggetti: Tutto il personale Docente e Ata, a tempo determinato ed indeterminato, delle scuole, della ricerca e delle università, in Italia e all&#039;estero
-✊ Sigle: UNICOBAS SCUOLA E UNIVERSITA', FISI]]></description>
+🏛 Comparti: AUTORITÀ INDIPENDENTI, REGIONI A STATUTO SPECIALE, CORPO NAZIONALE DEI VIGILI DEL FUOCO, ISTRUZIONE RICERCA, SANITA&#039;, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI LOCALI, FUNZIONI CENTRALI, PROVINCE AUTONOME
+👥 Soggetti: Tutto Il Personale
+✊ Sigle: FI-SI
+📋 Note CGS: Adeguamento della FI-SI alle indicazioni della Commissione di garanzia di cui alle note di intervento pos. 3131/25 sett. gen.]]></description>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/4827728a-bd77-4972-8f48-94832f6cc1df</guid>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/4a1b7014-40ba-49ee-afea-8963056177dc</guid>
     </item>
 
     <item>
