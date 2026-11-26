@@ -5,8 +5,8 @@
     <link>https://crusc-gepas.perlapa.gov.it/home</link>
     <description>Feed RSS non ufficiale – Cruscotto Scioperi GEPAS</description>
     <language>it-it</language>
-    <pubDate>Thu, 26 Nov 2026 01:14:59 +0000</pubDate>
-    <lastBuildDate>Thu, 26 Nov 2026 01:14:59 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2026 15:55:52 +0000</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:55:52 +0000</lastBuildDate>
     <atom:link href="https://3B-Sviluppo.github.io/gepas-feed-121/scioperi.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -602,29 +602,27 @@ Precario
     </item>
 
     <item>
-      <title>Sciopero generale del 28 novembre 2025</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/4a1b7014-40ba-49ee-afea-8963056177dc</link>
+      <title>Sciopero del 28 novembre 2025 Scuola</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/6d3ed6bb-85fc-44a1-bccc-335378997965</link>
       <description><![CDATA[📅 Data sciopero: 28/11/2025
 ⏰ Scadenza adesione: 12/01/2026
-🏛 Comparti: AUTORITÀ INDIPENDENTI, REGIONI A STATUTO SPECIALE, CORPO NAZIONALE DEI VIGILI DEL FUOCO, ISTRUZIONE RICERCA, SANITA&#039;, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, FUNZIONI LOCALI, FUNZIONI CENTRALI, PROVINCE AUTONOME
-👥 Soggetti: Tutto Il Personale
-✊ Sigle: FI-SI
-📋 Note CGS: Adeguamento della FI-SI alle indicazioni della Commissione di garanzia di cui alle note di intervento pos. 3131/25 sett. gen.]]></description>
+🏛 Comparti: ISTRUZIONE RICERCA
+👥 Soggetti: Tutto il personale Docente, Educativo, Ata e Dirigente, a tempo determinato ed indeterminato, in forza sia nelle sedi nazionali che a quelle estere.
+✊ Sigle: COBAS SCUOLA SARDEGNA]]></description>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/4a1b7014-40ba-49ee-afea-8963056177dc</guid>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/6d3ed6bb-85fc-44a1-bccc-335378997965</guid>
     </item>
 
     <item>
-      <title>Sciopero generale del 28 novembre 2025</title>
-      <link>https://crusc-gepas.perlapa.gov.it/detail/e6d49f4d-7ec3-419a-ac60-7a59d04b058b</link>
+      <title>Sciopero del 28 novembre 2025 Scuola</title>
+      <link>https://crusc-gepas.perlapa.gov.it/detail/d9209d74-68a0-49b5-bdca-0daf0fe51c90</link>
       <description><![CDATA[📅 Data sciopero: 28/11/2025
 ⏰ Scadenza adesione: 12/01/2026
-🏛 Comparti: CORPO NAZIONALE DEI VIGILI DEL FUOCO, ISTRUZIONE RICERCA, AUTORITÀ INDIPENDENTI, PRESIDENZA DEL CONSIGLIO DEI MINISTRI, PROVINCE AUTONOME, SANITA&#039;, REGIONI A STATUTO SPECIALE, FUNZIONI CENTRALI, FUNZIONI LOCALI
-👥 Soggetti: Personale Non Dirigente, Tutto Il Personale, Personale Dirigente, Personale educativo e scolastico, Titolari di incarico di DSGA, Personale docente, Personale ausiliario, tecnico e amministrativo (ATA), Livelli IV-VIII, Ricercatori e tecnologi, Personale di ricerca, Personale docente delle scuole dell&#039;infanzia, Personale educativo dei servizi educativi per l’infanzia, Polizia locale, Personale insegnante delle scuole gestite dagli enti locali, Ruolo sociosanitario (rientrano solo gli assistenti sociali e gli OSS), Ruolo sanitario - Professioni sanitarie infermieristiche, Ruolo professionale, Ruolo della ricerca sanitaria, Ruolo sanitario - Professioni tecnico sanitarie, Ruolo sanitario - Professione sanitaria ostetrica, Ruolo amministrativo, Dirigenti medici, veterinari, odontoiatri e sanitari, Ruolo sanitario - Professioni sanitarie della riabilitazione, Ruolo tecnico, Ruolo sanitario - Professioni sanitarie della prevenzione, Professionisti Non Medici, Dirigenti sanitari del Ministero della Salute e dell&#039;Agenzia Italiana del Farmaco, Professionisti Medici
-✊ Sigle: FLAI TS
-📋 Note CGS: Adeguamento di FLAI TS alle indicazioni della Commissione di garanzia di cui alla nota di intervento pos. 3125/25 sett. gen.]]></description>
+🏛 Comparti: ISTRUZIONE RICERCA
+👥 Soggetti: Personale ausiliario, tecnico e amministrativo (ATA), Personale docente, Titolari di incarico di DSGA, Personale Dirigente, Personale educativo e scolastico
+✊ Sigle: SINDACATO SOCIALE DI BASE - SSB]]></description>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/e6d49f4d-7ec3-419a-ac60-7a59d04b058b</guid>
+      <guid isPermaLink="true">https://crusc-gepas.perlapa.gov.it/detail/d9209d74-68a0-49b5-bdca-0daf0fe51c90</guid>
     </item>
 
   </channel>
